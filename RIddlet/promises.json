@@ -1,0 +1,5112 @@
+[
+  {
+    "id": 1,
+    "theme": "Presence",
+    "reference": "Isaiah 41:10",
+    "front": {
+      "promise": "I am with you. Do not be afraid.",
+      "reference": "Isaiah 41:10",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 2,
+    "theme": "Peace",
+    "reference": "John 14:27",
+    "front": {
+      "promise": "My peace is yours today.",
+      "reference": "John 14:27",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 3,
+    "theme": "Strength",
+    "reference": "Isaiah 40:31",
+    "front": {
+      "promise": "I will give you strength to rise again.",
+      "reference": "Isaiah 40:31",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 4,
+    "theme": "Provision",
+    "reference": "Philippians 4:19",
+    "front": {
+      "promise": "I will supply what you need.",
+      "reference": "Philippians 4:19",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 5,
+    "theme": "Guidance",
+    "reference": "Proverbs 3:5-6",
+    "front": {
+      "promise": "Lean on Me; I will make your way straight.",
+      "reference": "Proverbs 3:5-6",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  },
+  {
+    "id": 6,
+    "theme": "Comfort",
+    "reference": "Matthew 5:4",
+    "front": {
+      "promise": "I meet you with comfort when your heart is heavy.",
+      "reference": "Matthew 5:4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "God does not rush past pain. This promise meets you with tenderness and presence.",
+      "prayer": "God, comfort the places in me that feel tender today."
+    }
+  },
+  {
+    "id": 7,
+    "theme": "Hope",
+    "reference": "Romans 15:13",
+    "front": {
+      "promise": "I will fill you with hope and peace.",
+      "reference": "Romans 15:13",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Hope is not denial. It is choosing to believe God is still at work, even before you see the full picture.",
+      "prayer": "God, renew hope in me today."
+    }
+  },
+  {
+    "id": 8,
+    "theme": "Grace",
+    "reference": "2 Corinthians 12:9",
+    "front": {
+      "promise": "My strength meets you in weakness.",
+      "reference": "2 Corinthians 12:9",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Grace means you are met by God before you have everything together.",
+      "prayer": "God, help me receive Your grace today."
+    }
+  },
+  {
+    "id": 9,
+    "theme": "Protection",
+    "reference": "Psalm 91:4",
+    "front": {
+      "promise": "I am your shelter and covering.",
+      "reference": "Psalm 91:4",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "This promise reminds you that safety begins with belonging to God.",
+      "prayer": "God, guard my heart, mind, and steps today."
+    }
+  },
+  {
+    "id": 10,
+    "theme": "Rest",
+    "reference": "Matthew 11:28",
+    "front": {
+      "promise": "Come to Me, and I will give you rest.",
+      "reference": "Matthew 11:28",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Rest is not a reward for finishing everything. Jesus offers rest as an invitation.",
+      "prayer": "Jesus, teach my soul to rest in You."
+    }
+  },
+  {
+    "id": 11,
+    "theme": "Forgiveness",
+    "reference": "1 John 1:9",
+    "front": {
+      "promise": "I am faithful to forgive and cleanse you.",
+      "reference": "1 John 1:9",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Forgiveness is not God reluctantly tolerating you. It is His mercy making a way back.",
+      "prayer": "God, help me receive Your forgiveness fully."
+    }
+  },
+  {
+    "id": 12,
+    "theme": "Love",
+    "reference": "Romans 8:38-39",
+    "front": {
+      "promise": "You are held in a love that cannot be broken.",
+      "reference": "Romans 8:38-39",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "God’s love is not a mood that changes over you. It is a covenant reality in Christ.",
+      "prayer": "God, help me live from the truth that I am loved."
+    }
+  },
+  {
+    "id": 13,
+    "theme": "Presence",
+    "reference": "Matthew 28:20",
+    "front": {
+      "promise": "I am with you always.",
+      "reference": "Matthew 28:20",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God’s presence is not fragile. He is with you in the ordinary parts of this day.",
+      "prayer": "Lord, steady my heart with Your presence."
+    }
+  },
+  {
+    "id": 14,
+    "theme": "Peace",
+    "reference": "Philippians 4:7",
+    "front": {
+      "promise": "I will guard your heart with peace.",
+      "reference": "Philippians 4:7",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "This promise invites you to receive peace as a gift, not something you have to force out of yourself.",
+      "prayer": "God, help me receive the peace You give."
+    }
+  },
+  {
+    "id": 15,
+    "theme": "Strength",
+    "reference": "Philippians 4:13",
+    "front": {
+      "promise": "My strength is with you today.",
+      "reference": "Philippians 4:13",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "Today’s strength may look quiet, steady, and small. That still counts.",
+      "prayer": "Lord, meet me gently in the places I feel weak."
+    }
+  },
+  {
+    "id": 16,
+    "theme": "Provision",
+    "reference": "Matthew 6:33",
+    "front": {
+      "promise": "Seek Me first, and I will care for what you need.",
+      "reference": "Matthew 6:33",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "This promise reminds you that your needs matter to God. You can do your part without carrying tomorrow alone.",
+      "prayer": "Lord, help me recognise Your care today."
+    }
+  },
+  {
+    "id": 17,
+    "theme": "Guidance",
+    "reference": "Psalm 32:8",
+    "front": {
+      "promise": "I will guide you with My eye on you.",
+      "reference": "Psalm 32:8",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "This promise reminds you that guidance can be quiet. God can lead through wisdom, peace, counsel, and timing.",
+      "prayer": "Lord, give me wisdom for the choices in front of me."
+    }
+  },
+  {
+    "id": 18,
+    "theme": "Comfort",
+    "reference": "Psalm 34:18",
+    "front": {
+      "promise": "Your pain does not push Me away.",
+      "reference": "Psalm 34:18",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Comfort is not pretending everything is fine. It is being held honestly before God.",
+      "prayer": "Lord, hold what hurts and help me breathe again."
+    }
+  },
+  {
+    "id": 19,
+    "theme": "Hope",
+    "reference": "Jeremiah 29:11",
+    "front": {
+      "promise": "I have plans to give you hope and a future.",
+      "reference": "Jeremiah 29:11",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "This promise gives you permission to look forward again with God.",
+      "prayer": "Lord, help me trust that You are still working."
+    }
+  },
+  {
+    "id": 20,
+    "theme": "Grace",
+    "reference": "Ephesians 2:8",
+    "front": {
+      "promise": "Grace is My gift to you.",
+      "reference": "Ephesians 2:8",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "This promise releases you from earning tenderness. God’s grace is already reaching for you.",
+      "prayer": "Jesus, teach me to live from grace, not pressure."
+    }
+  },
+  {
+    "id": 21,
+    "theme": "Protection",
+    "reference": "2 Thessalonians 3:3",
+    "front": {
+      "promise": "My faithfulness is your covering.",
+      "reference": "2 Thessalonians 3:3",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "God’s protection is not always loud, but His care is steady and watchful.",
+      "prayer": "Lord, help me rest in Your covering."
+    }
+  },
+  {
+    "id": 22,
+    "theme": "Rest",
+    "reference": "Exodus 33:14",
+    "front": {
+      "promise": "My presence will go with you, and I will give you rest.",
+      "reference": "Exodus 33:14",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God is gentle with your limits.",
+      "prayer": "God, help me honour my limits today."
+    }
+  },
+  {
+    "id": 23,
+    "theme": "Forgiveness",
+    "reference": "Psalm 103:12",
+    "front": {
+      "promise": "My forgiveness is wider than your failure.",
+      "reference": "Psalm 103:12",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "This promise reminds you that shame does not get the final word in Christ.",
+      "prayer": "Jesus, free me from shame and lead me back to grace."
+    }
+  },
+  {
+    "id": 24,
+    "theme": "Love",
+    "reference": "John 3:16",
+    "front": {
+      "promise": "I gave My Son so you could receive life.",
+      "reference": "John 3:16",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "This promise reminds you that you are not merely noticed by God. You are loved.",
+      "prayer": "Jesus, keep me rooted in Your love today."
+    }
+  },
+  {
+    "id": 25,
+    "theme": "Presence",
+    "reference": "Deuteronomy 31:8",
+    "front": {
+      "promise": "I go before you.",
+      "reference": "Deuteronomy 31:8",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "Today, let God’s nearness settle the pressure to have everything figured out.",
+      "prayer": "Jesus, help me walk through today knowing You are with me."
+    }
+  },
+  {
+    "id": 26,
+    "theme": "Peace",
+    "reference": "Isaiah 26:3",
+    "front": {
+      "promise": "I will hold you in perfect peace as you trust Me.",
+      "reference": "Isaiah 26:3",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Today, let peace be something you return to slowly, breath by breath.",
+      "prayer": "Lord, quiet what is restless in me."
+    }
+  },
+  {
+    "id": 27,
+    "theme": "Strength",
+    "reference": "Psalm 18:2",
+    "front": {
+      "promise": "I am your firm place today.",
+      "reference": "Psalm 18:2",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "God meets weakness with grace. You can move through today supported, not depleted.",
+      "prayer": "Jesus, help me rely on Your strength today."
+    }
+  },
+  {
+    "id": 28,
+    "theme": "Provision",
+    "reference": "Psalm 23:1",
+    "front": {
+      "promise": "I am your Shepherd; you will not lack.",
+      "reference": "Psalm 23:1",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Today, let trust soften the urge to control every outcome.",
+      "prayer": "Father, provide what is needed and calm my anxious planning."
+    }
+  },
+  {
+    "id": 29,
+    "theme": "Guidance",
+    "reference": "James 1:5",
+    "front": {
+      "promise": "I will not shame you for needing wisdom.",
+      "reference": "James 1:5",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "Today, ask for enough light for the next step, then move with trust.",
+      "prayer": "Holy Spirit, help me recognise the way to go."
+    }
+  },
+  {
+    "id": 30,
+    "theme": "Comfort",
+    "reference": "2 Corinthians 1:3-4",
+    "front": {
+      "promise": "You are not alone in sorrow; I am near.",
+      "reference": "2 Corinthians 1:3-4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Today, you can bring the heavy thing to God without editing your heart first.",
+      "prayer": "Jesus, meet me with Your gentleness."
+    }
+  },
+  {
+    "id": 31,
+    "theme": "Hope",
+    "reference": "Psalm 42:11",
+    "front": {
+      "promise": "Hope in Me again.",
+      "reference": "Psalm 42:11",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Today, let hope be small but real. A small light is still light.",
+      "prayer": "Jesus, keep my heart open to what You are restoring."
+    }
+  },
+  {
+    "id": 32,
+    "theme": "Grace",
+    "reference": "Hebrews 4:16",
+    "front": {
+      "promise": "You will find mercy and grace with Me.",
+      "reference": "Hebrews 4:16",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Today, let grace interrupt the harsh way you speak to yourself.",
+      "prayer": "Lord, soften my heart where I am hard on myself."
+    }
+  },
+  {
+    "id": 33,
+    "theme": "Protection",
+    "reference": "Psalm 121:7-8",
+    "front": {
+      "promise": "I am your keeper today.",
+      "reference": "Psalm 121:7-8",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "Today, you can move with courage because your life is held by God.",
+      "prayer": "Father, keep me close to Your care."
+    }
+  },
+  {
+    "id": 34,
+    "theme": "Rest",
+    "reference": "Psalm 23:2",
+    "front": {
+      "promise": "I will lead you beside quiet waters.",
+      "reference": "Psalm 23:2",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Today, let rest be a faithful response, not something you feel guilty for needing.",
+      "prayer": "Lord, quiet my striving and lead me into rest."
+    }
+  },
+  {
+    "id": 35,
+    "theme": "Forgiveness",
+    "reference": "Isaiah 1:18",
+    "front": {
+      "promise": "Come to Me; I am able to cleanse you.",
+      "reference": "Isaiah 1:18",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Today, you can return to God honestly and receive mercy.",
+      "prayer": "Lord, cleanse my heart and help me begin again."
+    }
+  },
+  {
+    "id": 36,
+    "theme": "Love",
+    "reference": "1 John 4:9",
+    "front": {
+      "promise": "I did not keep My love distant from you.",
+      "reference": "1 John 4:9",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "Today, let God’s love be the place you start from, not something you chase.",
+      "prayer": "Father, let Your love steady my identity."
+    }
+  },
+  {
+    "id": 37,
+    "theme": "Presence",
+    "reference": "Psalm 23:4",
+    "front": {
+      "promise": "I am with you in the valley.",
+      "reference": "Psalm 23:4",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 38,
+    "theme": "Peace",
+    "reference": "Numbers 6:26",
+    "front": {
+      "promise": "Receive My peace today.",
+      "reference": "Numbers 6:26",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 39,
+    "theme": "Strength",
+    "reference": "2 Corinthians 12:9",
+    "front": {
+      "promise": "You can rest in My sufficient grace.",
+      "reference": "2 Corinthians 12:9",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 40,
+    "theme": "Provision",
+    "reference": "Psalm 34:10",
+    "front": {
+      "promise": "Seek Me, and you will lack no good thing.",
+      "reference": "Psalm 34:10",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 41,
+    "theme": "Guidance",
+    "reference": "Isaiah 30:21",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Isaiah 30:21",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  },
+  {
+    "id": 42,
+    "theme": "Comfort",
+    "reference": "Psalm 147:3",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Psalm 147:3",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "God does not rush past pain. This promise meets you with tenderness and presence.",
+      "prayer": "God, comfort the places in me that feel tender today."
+    }
+  },
+  {
+    "id": 43,
+    "theme": "Hope",
+    "reference": "Lamentations 3:22-23",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Lamentations 3:22-23",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Hope is not denial. It is choosing to believe God is still at work, even before you see the full picture.",
+      "prayer": "God, renew hope in me today."
+    }
+  },
+  {
+    "id": 44,
+    "theme": "Grace",
+    "reference": "Romans 6:14",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "Romans 6:14",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Grace means you are met by God before you have everything together.",
+      "prayer": "God, help me receive Your grace today."
+    }
+  },
+  {
+    "id": 45,
+    "theme": "Protection",
+    "reference": "Proverbs 18:10",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Proverbs 18:10",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "This promise reminds you that safety begins with belonging to God.",
+      "prayer": "God, guard my heart, mind, and steps today."
+    }
+  },
+  {
+    "id": 46,
+    "theme": "Rest",
+    "reference": "Hebrews 4:9",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Hebrews 4:9",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Rest is not a reward for finishing everything. Jesus offers rest as an invitation.",
+      "prayer": "Jesus, teach my soul to rest in You."
+    }
+  },
+  {
+    "id": 47,
+    "theme": "Forgiveness",
+    "reference": "Micah 7:19",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Micah 7:19",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Forgiveness is not God reluctantly tolerating you. It is His mercy making a way back.",
+      "prayer": "God, help me receive Your forgiveness fully."
+    }
+  },
+  {
+    "id": 48,
+    "theme": "Love",
+    "reference": "Zephaniah 3:17",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Zephaniah 3:17",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "God’s love is not a mood that changes over you. It is a covenant reality in Christ.",
+      "prayer": "God, help me live from the truth that I am loved."
+    }
+  },
+  {
+    "id": 49,
+    "theme": "Presence",
+    "reference": "Joshua 1:9",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Joshua 1:9",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God’s presence is not fragile. He is with you in the ordinary parts of this day.",
+      "prayer": "Lord, steady my heart with Your presence."
+    }
+  },
+  {
+    "id": 50,
+    "theme": "Peace",
+    "reference": "Psalm 29:11",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "Psalm 29:11",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "This promise invites you to receive peace as a gift, not something you have to force out of yourself.",
+      "prayer": "God, help me receive the peace You give."
+    }
+  },
+  {
+    "id": 51,
+    "theme": "Strength",
+    "reference": "Nehemiah 8:10",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Nehemiah 8:10",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "Today’s strength may look quiet, steady, and small. That still counts.",
+      "prayer": "Lord, meet me gently in the places I feel weak."
+    }
+  },
+  {
+    "id": 52,
+    "theme": "Provision",
+    "reference": "2 Corinthians 9:8",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "2 Corinthians 9:8",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "This promise reminds you that your needs matter to God. You can do your part without carrying tomorrow alone.",
+      "prayer": "Lord, help me recognise Your care today."
+    }
+  },
+  {
+    "id": 53,
+    "theme": "Guidance",
+    "reference": "Psalm 119:105",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Psalm 119:105",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "This promise reminds you that guidance can be quiet. God can lead through wisdom, peace, counsel, and timing.",
+      "prayer": "Lord, give me wisdom for the choices in front of me."
+    }
+  },
+  {
+    "id": 54,
+    "theme": "Comfort",
+    "reference": "Isaiah 66:13",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Isaiah 66:13",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Comfort is not pretending everything is fine. It is being held honestly before God.",
+      "prayer": "Lord, hold what hurts and help me breathe again."
+    }
+  },
+  {
+    "id": 55,
+    "theme": "Hope",
+    "reference": "Romans 8:28",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Romans 8:28",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "This promise gives you permission to look forward again with God.",
+      "prayer": "Lord, help me trust that You are still working."
+    }
+  },
+  {
+    "id": 56,
+    "theme": "Grace",
+    "reference": "John 1:16",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "John 1:16",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "This promise releases you from earning tenderness. God’s grace is already reaching for you.",
+      "prayer": "Jesus, teach me to live from grace, not pressure."
+    }
+  },
+  {
+    "id": 57,
+    "theme": "Protection",
+    "reference": "Isaiah 54:17",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Isaiah 54:17",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "God’s protection is not always loud, but His care is steady and watchful.",
+      "prayer": "Lord, help me rest in Your covering."
+    }
+  },
+  {
+    "id": 58,
+    "theme": "Rest",
+    "reference": "Psalm 4:8",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Psalm 4:8",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God is gentle with your limits.",
+      "prayer": "God, help me honour my limits today."
+    }
+  },
+  {
+    "id": 59,
+    "theme": "Forgiveness",
+    "reference": "Ephesians 1:7",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Ephesians 1:7",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "This promise reminds you that shame does not get the final word in Christ.",
+      "prayer": "Jesus, free me from shame and lead me back to grace."
+    }
+  },
+  {
+    "id": 60,
+    "theme": "Love",
+    "reference": "Jeremiah 31:3",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Jeremiah 31:3",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "This promise reminds you that you are not merely noticed by God. You are loved.",
+      "prayer": "Jesus, keep me rooted in Your love today."
+    }
+  },
+  {
+    "id": 61,
+    "theme": "Presence",
+    "reference": "John 14:18",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "John 14:18",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "Today, let God’s nearness settle the pressure to have everything figured out.",
+      "prayer": "Jesus, help me walk through today knowing You are with me."
+    }
+  },
+  {
+    "id": 62,
+    "theme": "Peace",
+    "reference": "Romans 15:13",
+    "front": {
+      "promise": "Let My Spirit grow hope in you.",
+      "reference": "Romans 15:13",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Today, let peace be something you return to slowly, breath by breath.",
+      "prayer": "Lord, quiet what is restless in me."
+    }
+  },
+  {
+    "id": 63,
+    "theme": "Strength",
+    "reference": "Psalm 28:7",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Psalm 28:7",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "God meets weakness with grace. You can move through today supported, not depleted.",
+      "prayer": "Jesus, help me rely on Your strength today."
+    }
+  },
+  {
+    "id": 64,
+    "theme": "Provision",
+    "reference": "Matthew 6:26",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Matthew 6:26",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Today, let trust soften the urge to control every outcome.",
+      "prayer": "Father, provide what is needed and calm my anxious planning."
+    }
+  },
+  {
+    "id": 65,
+    "theme": "Guidance",
+    "reference": "John 16:13",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "John 16:13",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "Today, ask for enough light for the next step, then move with trust.",
+      "prayer": "Holy Spirit, help me recognise the way to go."
+    }
+  },
+  {
+    "id": 66,
+    "theme": "Comfort",
+    "reference": "Revelation 21:4",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Revelation 21:4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Today, you can bring the heavy thing to God without editing your heart first.",
+      "prayer": "Jesus, meet me with Your gentleness."
+    }
+  },
+  {
+    "id": 67,
+    "theme": "Hope",
+    "reference": "1 Peter 1:3",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "1 Peter 1:3",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Today, let hope be small but real. A small light is still light.",
+      "prayer": "Jesus, keep my heart open to what You are restoring."
+    }
+  },
+  {
+    "id": 68,
+    "theme": "Grace",
+    "reference": "Titus 2:11",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "Titus 2:11",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Today, let grace interrupt the harsh way you speak to yourself.",
+      "prayer": "Lord, soften my heart where I am hard on myself."
+    }
+  },
+  {
+    "id": 69,
+    "theme": "Protection",
+    "reference": "Psalm 46:1",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Psalm 46:1",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "Today, you can move with courage because your life is held by God.",
+      "prayer": "Father, keep me close to Your care."
+    }
+  },
+  {
+    "id": 70,
+    "theme": "Rest",
+    "reference": "Isaiah 40:29",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Isaiah 40:29",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Today, let rest be a faithful response, not something you feel guilty for needing.",
+      "prayer": "Lord, quiet my striving and lead me into rest."
+    }
+  },
+  {
+    "id": 71,
+    "theme": "Forgiveness",
+    "reference": "Colossians 1:14",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Colossians 1:14",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Today, you can return to God honestly and receive mercy.",
+      "prayer": "Lord, cleanse my heart and help me begin again."
+    }
+  },
+  {
+    "id": 72,
+    "theme": "Love",
+    "reference": "Ephesians 3:17-19",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Ephesians 3:17-19",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "Today, let God’s love be the place you start from, not something you chase.",
+      "prayer": "Father, let Your love steady my identity."
+    }
+  },
+  {
+    "id": 73,
+    "theme": "Presence",
+    "reference": "Psalm 46:1",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Psalm 46:1",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 74,
+    "theme": "Peace",
+    "reference": "2 Thessalonians 3:16",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "2 Thessalonians 3:16",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 75,
+    "theme": "Strength",
+    "reference": "Ephesians 6:10",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Ephesians 6:10",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 76,
+    "theme": "Provision",
+    "reference": "Psalm 84:11",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Psalm 84:11",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 77,
+    "theme": "Guidance",
+    "reference": "Psalm 25:4-5",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Psalm 25:4-5",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  },
+  {
+    "id": 78,
+    "theme": "Comfort",
+    "reference": "Psalm 23:4",
+    "front": {
+      "promise": "My presence stays with you in hard places.",
+      "reference": "Psalm 23:4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "God does not rush past pain. This promise meets you with tenderness and presence.",
+      "prayer": "God, comfort the places in me that feel tender today."
+    }
+  },
+  {
+    "id": 79,
+    "theme": "Hope",
+    "reference": "Hebrews 10:23",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Hebrews 10:23",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Hope is not denial. It is choosing to believe God is still at work, even before you see the full picture.",
+      "prayer": "God, renew hope in me today."
+    }
+  },
+  {
+    "id": 80,
+    "theme": "Grace",
+    "reference": "1 Peter 5:10",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "1 Peter 5:10",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Grace means you are met by God before you have everything together.",
+      "prayer": "God, help me receive Your grace today."
+    }
+  },
+  {
+    "id": 81,
+    "theme": "Protection",
+    "reference": "Psalm 27:1",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Psalm 27:1",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "This promise reminds you that safety begins with belonging to God.",
+      "prayer": "God, guard my heart, mind, and steps today."
+    }
+  },
+  {
+    "id": 82,
+    "theme": "Rest",
+    "reference": "Psalm 62:1",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Psalm 62:1",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Rest is not a reward for finishing everything. Jesus offers rest as an invitation.",
+      "prayer": "Jesus, teach my soul to rest in You."
+    }
+  },
+  {
+    "id": 83,
+    "theme": "Forgiveness",
+    "reference": "Acts 3:19",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Acts 3:19",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Forgiveness is not God reluctantly tolerating you. It is His mercy making a way back.",
+      "prayer": "God, help me receive Your forgiveness fully."
+    }
+  },
+  {
+    "id": 84,
+    "theme": "Love",
+    "reference": "Psalm 136:1",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Psalm 136:1",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "God’s love is not a mood that changes over you. It is a covenant reality in Christ.",
+      "prayer": "God, help me live from the truth that I am loved."
+    }
+  },
+  {
+    "id": 85,
+    "theme": "Presence",
+    "reference": "Hebrews 13:5",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Hebrews 13:5",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God’s presence is not fragile. He is with you in the ordinary parts of this day.",
+      "prayer": "Lord, steady my heart with Your presence."
+    }
+  },
+  {
+    "id": 86,
+    "theme": "Peace",
+    "reference": "Colossians 3:15",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "Colossians 3:15",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "This promise invites you to receive peace as a gift, not something you have to force out of yourself.",
+      "prayer": "God, help me receive the peace You give."
+    }
+  },
+  {
+    "id": 87,
+    "theme": "Strength",
+    "reference": "Isaiah 41:13",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Isaiah 41:13",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "Today’s strength may look quiet, steady, and small. That still counts.",
+      "prayer": "Lord, meet me gently in the places I feel weak."
+    }
+  },
+  {
+    "id": 88,
+    "theme": "Provision",
+    "reference": "Genesis 22:14",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Genesis 22:14",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "This promise reminds you that your needs matter to God. You can do your part without carrying tomorrow alone.",
+      "prayer": "Lord, help me recognise Your care today."
+    }
+  },
+  {
+    "id": 89,
+    "theme": "Guidance",
+    "reference": "Isaiah 58:11",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Isaiah 58:11",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "This promise reminds you that guidance can be quiet. God can lead through wisdom, peace, counsel, and timing.",
+      "prayer": "Lord, give me wisdom for the choices in front of me."
+    }
+  },
+  {
+    "id": 90,
+    "theme": "Comfort",
+    "reference": "John 14:16",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "John 14:16",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Comfort is not pretending everything is fine. It is being held honestly before God.",
+      "prayer": "Lord, hold what hurts and help me breathe again."
+    }
+  },
+  {
+    "id": 91,
+    "theme": "Hope",
+    "reference": "Psalm 130:5",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Psalm 130:5",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "This promise gives you permission to look forward again with God.",
+      "prayer": "Lord, help me trust that You are still working."
+    }
+  },
+  {
+    "id": 92,
+    "theme": "Grace",
+    "reference": "James 4:6",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "James 4:6",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "This promise releases you from earning tenderness. God’s grace is already reaching for you.",
+      "prayer": "Jesus, teach me to live from grace, not pressure."
+    }
+  },
+  {
+    "id": 93,
+    "theme": "Protection",
+    "reference": "Nahum 1:7",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Nahum 1:7",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "God’s protection is not always loud, but His care is steady and watchful.",
+      "prayer": "Lord, help me rest in Your covering."
+    }
+  },
+  {
+    "id": 94,
+    "theme": "Rest",
+    "reference": "Mark 6:31",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Mark 6:31",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God is gentle with your limits.",
+      "prayer": "God, help me honour my limits today."
+    }
+  },
+  {
+    "id": 95,
+    "theme": "Forgiveness",
+    "reference": "Hebrews 8:12",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Hebrews 8:12",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "This promise reminds you that shame does not get the final word in Christ.",
+      "prayer": "Jesus, free me from shame and lead me back to grace."
+    }
+  },
+  {
+    "id": 96,
+    "theme": "Love",
+    "reference": "1 John 3:1",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "1 John 3:1",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "This promise reminds you that you are not merely noticed by God. You are loved.",
+      "prayer": "Jesus, keep me rooted in Your love today."
+    }
+  },
+  {
+    "id": 97,
+    "theme": "Presence",
+    "reference": "Psalm 139:10",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Psalm 139:10",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "Today, let God’s nearness settle the pressure to have everything figured out.",
+      "prayer": "Jesus, help me walk through today knowing You are with me."
+    }
+  },
+  {
+    "id": 98,
+    "theme": "Peace",
+    "reference": "Psalm 4:8",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "Psalm 4:8",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Today, let peace be something you return to slowly, breath by breath.",
+      "prayer": "Lord, quiet what is restless in me."
+    }
+  },
+  {
+    "id": 99,
+    "theme": "Strength",
+    "reference": "Habakkuk 3:19",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Habakkuk 3:19",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "God meets weakness with grace. You can move through today supported, not depleted.",
+      "prayer": "Jesus, help me rely on Your strength today."
+    }
+  },
+  {
+    "id": 100,
+    "theme": "Provision",
+    "reference": "Luke 12:31",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Luke 12:31",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Today, let trust soften the urge to control every outcome.",
+      "prayer": "Father, provide what is needed and calm my anxious planning."
+    }
+  },
+  {
+    "id": 101,
+    "theme": "Guidance",
+    "reference": "Proverbs 16:9",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Proverbs 16:9",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "Today, ask for enough light for the next step, then move with trust.",
+      "prayer": "Holy Spirit, help me recognise the way to go."
+    }
+  },
+  {
+    "id": 102,
+    "theme": "Comfort",
+    "reference": "Isaiah 40:1",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Isaiah 40:1",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Today, you can bring the heavy thing to God without editing your heart first.",
+      "prayer": "Jesus, meet me with Your gentleness."
+    }
+  },
+  {
+    "id": 103,
+    "theme": "Hope",
+    "reference": "Isaiah 43:19",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Isaiah 43:19",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Today, let hope be small but real. A small light is still light.",
+      "prayer": "Jesus, keep my heart open to what You are restoring."
+    }
+  },
+  {
+    "id": 104,
+    "theme": "Grace",
+    "reference": "Romans 5:20",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "Romans 5:20",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Today, let grace interrupt the harsh way you speak to yourself.",
+      "prayer": "Lord, soften my heart where I am hard on myself."
+    }
+  },
+  {
+    "id": 105,
+    "theme": "Protection",
+    "reference": "Psalm 32:7",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Psalm 32:7",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "Today, you can move with courage because your life is held by God.",
+      "prayer": "Father, keep me close to Your care."
+    }
+  },
+  {
+    "id": 106,
+    "theme": "Rest",
+    "reference": "Psalm 116:7",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Psalm 116:7",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Today, let rest be a faithful response, not something you feel guilty for needing.",
+      "prayer": "Lord, quiet my striving and lead me into rest."
+    }
+  },
+  {
+    "id": 107,
+    "theme": "Forgiveness",
+    "reference": "Romans 8:1",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Romans 8:1",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Today, you can return to God honestly and receive mercy.",
+      "prayer": "Lord, cleanse my heart and help me begin again."
+    }
+  },
+  {
+    "id": 108,
+    "theme": "Love",
+    "reference": "Galatians 2:20",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Galatians 2:20",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "Today, let God’s love be the place you start from, not something you chase.",
+      "prayer": "Father, let Your love steady my identity."
+    }
+  },
+  {
+    "id": 109,
+    "theme": "Presence",
+    "reference": "Exodus 33:14",
+    "front": {
+      "promise": "My presence will go with you, and I will give you rest.",
+      "reference": "Exodus 33:14",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 110,
+    "theme": "Peace",
+    "reference": "John 16:33",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "John 16:33",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 111,
+    "theme": "Strength",
+    "reference": "Psalm 73:26",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Psalm 73:26",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 112,
+    "theme": "Provision",
+    "reference": "Psalm 37:25",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Psalm 37:25",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 113,
+    "theme": "Guidance",
+    "reference": "Psalm 37:23",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Psalm 37:23",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  },
+  {
+    "id": 114,
+    "theme": "Comfort",
+    "reference": "Psalm 94:19",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Psalm 94:19",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "God does not rush past pain. This promise meets you with tenderness and presence.",
+      "prayer": "God, comfort the places in me that feel tender today."
+    }
+  },
+  {
+    "id": 115,
+    "theme": "Hope",
+    "reference": "Romans 5:5",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Romans 5:5",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Hope is not denial. It is choosing to believe God is still at work, even before you see the full picture.",
+      "prayer": "God, renew hope in me today."
+    }
+  },
+  {
+    "id": 116,
+    "theme": "Grace",
+    "reference": "2 Timothy 1:9",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "2 Timothy 1:9",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Grace means you are met by God before you have everything together.",
+      "prayer": "God, help me receive Your grace today."
+    }
+  },
+  {
+    "id": 117,
+    "theme": "Protection",
+    "reference": "1 Peter 1:5",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "1 Peter 1:5",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "This promise reminds you that safety begins with belonging to God.",
+      "prayer": "God, guard my heart, mind, and steps today."
+    }
+  },
+  {
+    "id": 118,
+    "theme": "Rest",
+    "reference": "Isaiah 30:15",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Isaiah 30:15",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Rest is not a reward for finishing everything. Jesus offers rest as an invitation.",
+      "prayer": "Jesus, teach my soul to rest in You."
+    }
+  },
+  {
+    "id": 119,
+    "theme": "Forgiveness",
+    "reference": "Psalm 86:5",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Psalm 86:5",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Forgiveness is not God reluctantly tolerating you. It is His mercy making a way back.",
+      "prayer": "God, help me receive Your forgiveness fully."
+    }
+  },
+  {
+    "id": 120,
+    "theme": "Love",
+    "reference": "John 15:9",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "John 15:9",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "God’s love is not a mood that changes over you. It is a covenant reality in Christ.",
+      "prayer": "God, help me live from the truth that I am loved."
+    }
+  },
+  {
+    "id": 121,
+    "theme": "Presence",
+    "reference": "Isaiah 41:10",
+    "front": {
+      "promise": "I am with you. Do not be afraid.",
+      "reference": "Isaiah 41:10",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God’s presence is not fragile. He is with you in the ordinary parts of this day.",
+      "prayer": "Lord, steady my heart with Your presence."
+    }
+  },
+  {
+    "id": 122,
+    "theme": "Peace",
+    "reference": "John 14:27",
+    "front": {
+      "promise": "My peace is yours today.",
+      "reference": "John 14:27",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "This promise invites you to receive peace as a gift, not something you have to force out of yourself.",
+      "prayer": "God, help me receive the peace You give."
+    }
+  },
+  {
+    "id": 123,
+    "theme": "Strength",
+    "reference": "Isaiah 40:31",
+    "front": {
+      "promise": "I will give you strength to rise again.",
+      "reference": "Isaiah 40:31",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "Today’s strength may look quiet, steady, and small. That still counts.",
+      "prayer": "Lord, meet me gently in the places I feel weak."
+    }
+  },
+  {
+    "id": 124,
+    "theme": "Provision",
+    "reference": "Philippians 4:19",
+    "front": {
+      "promise": "I will supply what you need.",
+      "reference": "Philippians 4:19",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "This promise reminds you that your needs matter to God. You can do your part without carrying tomorrow alone.",
+      "prayer": "Lord, help me recognise Your care today."
+    }
+  },
+  {
+    "id": 125,
+    "theme": "Guidance",
+    "reference": "Proverbs 3:5-6",
+    "front": {
+      "promise": "Lean on Me; I will make your way straight.",
+      "reference": "Proverbs 3:5-6",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "This promise reminds you that guidance can be quiet. God can lead through wisdom, peace, counsel, and timing.",
+      "prayer": "Lord, give me wisdom for the choices in front of me."
+    }
+  },
+  {
+    "id": 126,
+    "theme": "Comfort",
+    "reference": "Matthew 5:4",
+    "front": {
+      "promise": "I meet you with comfort when your heart is heavy.",
+      "reference": "Matthew 5:4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Comfort is not pretending everything is fine. It is being held honestly before God.",
+      "prayer": "Lord, hold what hurts and help me breathe again."
+    }
+  },
+  {
+    "id": 127,
+    "theme": "Hope",
+    "reference": "Romans 15:13",
+    "front": {
+      "promise": "I will fill you with hope and peace.",
+      "reference": "Romans 15:13",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "This promise gives you permission to look forward again with God.",
+      "prayer": "Lord, help me trust that You are still working."
+    }
+  },
+  {
+    "id": 128,
+    "theme": "Grace",
+    "reference": "2 Corinthians 12:9",
+    "front": {
+      "promise": "My strength meets you in weakness.",
+      "reference": "2 Corinthians 12:9",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "This promise releases you from earning tenderness. God’s grace is already reaching for you.",
+      "prayer": "Jesus, teach me to live from grace, not pressure."
+    }
+  },
+  {
+    "id": 129,
+    "theme": "Protection",
+    "reference": "Psalm 91:4",
+    "front": {
+      "promise": "I am your shelter and covering.",
+      "reference": "Psalm 91:4",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "God’s protection is not always loud, but His care is steady and watchful.",
+      "prayer": "Lord, help me rest in Your covering."
+    }
+  },
+  {
+    "id": 130,
+    "theme": "Rest",
+    "reference": "Matthew 11:28",
+    "front": {
+      "promise": "Come to Me, and I will give you rest.",
+      "reference": "Matthew 11:28",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God is gentle with your limits.",
+      "prayer": "God, help me honour my limits today."
+    }
+  },
+  {
+    "id": 131,
+    "theme": "Forgiveness",
+    "reference": "1 John 1:9",
+    "front": {
+      "promise": "I am faithful to forgive and cleanse you.",
+      "reference": "1 John 1:9",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "This promise reminds you that shame does not get the final word in Christ.",
+      "prayer": "Jesus, free me from shame and lead me back to grace."
+    }
+  },
+  {
+    "id": 132,
+    "theme": "Love",
+    "reference": "Romans 8:38-39",
+    "front": {
+      "promise": "You are held in a love that cannot be broken.",
+      "reference": "Romans 8:38-39",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "This promise reminds you that you are not merely noticed by God. You are loved.",
+      "prayer": "Jesus, keep me rooted in Your love today."
+    }
+  },
+  {
+    "id": 133,
+    "theme": "Presence",
+    "reference": "Matthew 28:20",
+    "front": {
+      "promise": "I am with you always.",
+      "reference": "Matthew 28:20",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "Today, let God’s nearness settle the pressure to have everything figured out.",
+      "prayer": "Jesus, help me walk through today knowing You are with me."
+    }
+  },
+  {
+    "id": 134,
+    "theme": "Peace",
+    "reference": "Philippians 4:7",
+    "front": {
+      "promise": "I will guard your heart with peace.",
+      "reference": "Philippians 4:7",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Today, let peace be something you return to slowly, breath by breath.",
+      "prayer": "Lord, quiet what is restless in me."
+    }
+  },
+  {
+    "id": 135,
+    "theme": "Strength",
+    "reference": "Philippians 4:13",
+    "front": {
+      "promise": "My strength is with you today.",
+      "reference": "Philippians 4:13",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "God meets weakness with grace. You can move through today supported, not depleted.",
+      "prayer": "Jesus, help me rely on Your strength today."
+    }
+  },
+  {
+    "id": 136,
+    "theme": "Provision",
+    "reference": "Matthew 6:33",
+    "front": {
+      "promise": "Seek Me first, and I will care for what you need.",
+      "reference": "Matthew 6:33",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Today, let trust soften the urge to control every outcome.",
+      "prayer": "Father, provide what is needed and calm my anxious planning."
+    }
+  },
+  {
+    "id": 137,
+    "theme": "Guidance",
+    "reference": "Psalm 32:8",
+    "front": {
+      "promise": "I will guide you with My eye on you.",
+      "reference": "Psalm 32:8",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "Today, ask for enough light for the next step, then move with trust.",
+      "prayer": "Holy Spirit, help me recognise the way to go."
+    }
+  },
+  {
+    "id": 138,
+    "theme": "Comfort",
+    "reference": "Psalm 34:18",
+    "front": {
+      "promise": "Your pain does not push Me away.",
+      "reference": "Psalm 34:18",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Today, you can bring the heavy thing to God without editing your heart first.",
+      "prayer": "Jesus, meet me with Your gentleness."
+    }
+  },
+  {
+    "id": 139,
+    "theme": "Hope",
+    "reference": "Jeremiah 29:11",
+    "front": {
+      "promise": "I have plans to give you hope and a future.",
+      "reference": "Jeremiah 29:11",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Today, let hope be small but real. A small light is still light.",
+      "prayer": "Jesus, keep my heart open to what You are restoring."
+    }
+  },
+  {
+    "id": 140,
+    "theme": "Grace",
+    "reference": "Ephesians 2:8",
+    "front": {
+      "promise": "Grace is My gift to you.",
+      "reference": "Ephesians 2:8",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Today, let grace interrupt the harsh way you speak to yourself.",
+      "prayer": "Lord, soften my heart where I am hard on myself."
+    }
+  },
+  {
+    "id": 141,
+    "theme": "Protection",
+    "reference": "2 Thessalonians 3:3",
+    "front": {
+      "promise": "My faithfulness is your covering.",
+      "reference": "2 Thessalonians 3:3",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "Today, you can move with courage because your life is held by God.",
+      "prayer": "Father, keep me close to Your care."
+    }
+  },
+  {
+    "id": 142,
+    "theme": "Rest",
+    "reference": "Exodus 33:14",
+    "front": {
+      "promise": "My presence will go with you, and I will give you rest.",
+      "reference": "Exodus 33:14",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Today, let rest be a faithful response, not something you feel guilty for needing.",
+      "prayer": "Lord, quiet my striving and lead me into rest."
+    }
+  },
+  {
+    "id": 143,
+    "theme": "Forgiveness",
+    "reference": "Psalm 103:12",
+    "front": {
+      "promise": "My forgiveness is wider than your failure.",
+      "reference": "Psalm 103:12",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Today, you can return to God honestly and receive mercy.",
+      "prayer": "Lord, cleanse my heart and help me begin again."
+    }
+  },
+  {
+    "id": 144,
+    "theme": "Love",
+    "reference": "John 3:16",
+    "front": {
+      "promise": "I gave My Son so you could receive life.",
+      "reference": "John 3:16",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "Today, let God’s love be the place you start from, not something you chase.",
+      "prayer": "Father, let Your love steady my identity."
+    }
+  },
+  {
+    "id": 145,
+    "theme": "Presence",
+    "reference": "Deuteronomy 31:8",
+    "front": {
+      "promise": "I go before you.",
+      "reference": "Deuteronomy 31:8",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 146,
+    "theme": "Peace",
+    "reference": "Isaiah 26:3",
+    "front": {
+      "promise": "I will hold you in perfect peace as you trust Me.",
+      "reference": "Isaiah 26:3",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 147,
+    "theme": "Strength",
+    "reference": "Psalm 18:2",
+    "front": {
+      "promise": "I am your firm place today.",
+      "reference": "Psalm 18:2",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 148,
+    "theme": "Provision",
+    "reference": "Psalm 23:1",
+    "front": {
+      "promise": "I am your Shepherd; you will not lack.",
+      "reference": "Psalm 23:1",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 149,
+    "theme": "Guidance",
+    "reference": "James 1:5",
+    "front": {
+      "promise": "I will not shame you for needing wisdom.",
+      "reference": "James 1:5",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  },
+  {
+    "id": 150,
+    "theme": "Comfort",
+    "reference": "2 Corinthians 1:3-4",
+    "front": {
+      "promise": "You are not alone in sorrow; I am near.",
+      "reference": "2 Corinthians 1:3-4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "God does not rush past pain. This promise meets you with tenderness and presence.",
+      "prayer": "God, comfort the places in me that feel tender today."
+    }
+  },
+  {
+    "id": 151,
+    "theme": "Hope",
+    "reference": "Psalm 42:11",
+    "front": {
+      "promise": "Hope in Me again.",
+      "reference": "Psalm 42:11",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Hope is not denial. It is choosing to believe God is still at work, even before you see the full picture.",
+      "prayer": "God, renew hope in me today."
+    }
+  },
+  {
+    "id": 152,
+    "theme": "Grace",
+    "reference": "Hebrews 4:16",
+    "front": {
+      "promise": "You will find mercy and grace with Me.",
+      "reference": "Hebrews 4:16",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Grace means you are met by God before you have everything together.",
+      "prayer": "God, help me receive Your grace today."
+    }
+  },
+  {
+    "id": 153,
+    "theme": "Protection",
+    "reference": "Psalm 121:7-8",
+    "front": {
+      "promise": "I am your keeper today.",
+      "reference": "Psalm 121:7-8",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "This promise reminds you that safety begins with belonging to God.",
+      "prayer": "God, guard my heart, mind, and steps today."
+    }
+  },
+  {
+    "id": 154,
+    "theme": "Rest",
+    "reference": "Psalm 23:2",
+    "front": {
+      "promise": "I will lead you beside quiet waters.",
+      "reference": "Psalm 23:2",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Rest is not a reward for finishing everything. Jesus offers rest as an invitation.",
+      "prayer": "Jesus, teach my soul to rest in You."
+    }
+  },
+  {
+    "id": 155,
+    "theme": "Forgiveness",
+    "reference": "Isaiah 1:18",
+    "front": {
+      "promise": "Come to Me; I am able to cleanse you.",
+      "reference": "Isaiah 1:18",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Forgiveness is not God reluctantly tolerating you. It is His mercy making a way back.",
+      "prayer": "God, help me receive Your forgiveness fully."
+    }
+  },
+  {
+    "id": 156,
+    "theme": "Love",
+    "reference": "1 John 4:9",
+    "front": {
+      "promise": "I did not keep My love distant from you.",
+      "reference": "1 John 4:9",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "God’s love is not a mood that changes over you. It is a covenant reality in Christ.",
+      "prayer": "God, help me live from the truth that I am loved."
+    }
+  },
+  {
+    "id": 157,
+    "theme": "Presence",
+    "reference": "Psalm 23:4",
+    "front": {
+      "promise": "I am with you in the valley.",
+      "reference": "Psalm 23:4",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God’s presence is not fragile. He is with you in the ordinary parts of this day.",
+      "prayer": "Lord, steady my heart with Your presence."
+    }
+  },
+  {
+    "id": 158,
+    "theme": "Peace",
+    "reference": "Numbers 6:26",
+    "front": {
+      "promise": "Receive My peace today.",
+      "reference": "Numbers 6:26",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "This promise invites you to receive peace as a gift, not something you have to force out of yourself.",
+      "prayer": "God, help me receive the peace You give."
+    }
+  },
+  {
+    "id": 159,
+    "theme": "Strength",
+    "reference": "2 Corinthians 12:9",
+    "front": {
+      "promise": "You can rest in My sufficient grace.",
+      "reference": "2 Corinthians 12:9",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "Today’s strength may look quiet, steady, and small. That still counts.",
+      "prayer": "Lord, meet me gently in the places I feel weak."
+    }
+  },
+  {
+    "id": 160,
+    "theme": "Provision",
+    "reference": "Psalm 34:10",
+    "front": {
+      "promise": "Seek Me, and you will lack no good thing.",
+      "reference": "Psalm 34:10",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "This promise reminds you that your needs matter to God. You can do your part without carrying tomorrow alone.",
+      "prayer": "Lord, help me recognise Your care today."
+    }
+  },
+  {
+    "id": 161,
+    "theme": "Guidance",
+    "reference": "Isaiah 30:21",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Isaiah 30:21",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "This promise reminds you that guidance can be quiet. God can lead through wisdom, peace, counsel, and timing.",
+      "prayer": "Lord, give me wisdom for the choices in front of me."
+    }
+  },
+  {
+    "id": 162,
+    "theme": "Comfort",
+    "reference": "Psalm 147:3",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Psalm 147:3",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Comfort is not pretending everything is fine. It is being held honestly before God.",
+      "prayer": "Lord, hold what hurts and help me breathe again."
+    }
+  },
+  {
+    "id": 163,
+    "theme": "Hope",
+    "reference": "Lamentations 3:22-23",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Lamentations 3:22-23",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "This promise gives you permission to look forward again with God.",
+      "prayer": "Lord, help me trust that You are still working."
+    }
+  },
+  {
+    "id": 164,
+    "theme": "Grace",
+    "reference": "Romans 6:14",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "Romans 6:14",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "This promise releases you from earning tenderness. God’s grace is already reaching for you.",
+      "prayer": "Jesus, teach me to live from grace, not pressure."
+    }
+  },
+  {
+    "id": 165,
+    "theme": "Protection",
+    "reference": "Proverbs 18:10",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Proverbs 18:10",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "God’s protection is not always loud, but His care is steady and watchful.",
+      "prayer": "Lord, help me rest in Your covering."
+    }
+  },
+  {
+    "id": 166,
+    "theme": "Rest",
+    "reference": "Hebrews 4:9",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Hebrews 4:9",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God is gentle with your limits.",
+      "prayer": "God, help me honour my limits today."
+    }
+  },
+  {
+    "id": 167,
+    "theme": "Forgiveness",
+    "reference": "Micah 7:19",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Micah 7:19",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "This promise reminds you that shame does not get the final word in Christ.",
+      "prayer": "Jesus, free me from shame and lead me back to grace."
+    }
+  },
+  {
+    "id": 168,
+    "theme": "Love",
+    "reference": "Zephaniah 3:17",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Zephaniah 3:17",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "This promise reminds you that you are not merely noticed by God. You are loved.",
+      "prayer": "Jesus, keep me rooted in Your love today."
+    }
+  },
+  {
+    "id": 169,
+    "theme": "Presence",
+    "reference": "Joshua 1:9",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Joshua 1:9",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "Today, let God’s nearness settle the pressure to have everything figured out.",
+      "prayer": "Jesus, help me walk through today knowing You are with me."
+    }
+  },
+  {
+    "id": 170,
+    "theme": "Peace",
+    "reference": "Psalm 29:11",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "Psalm 29:11",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Today, let peace be something you return to slowly, breath by breath.",
+      "prayer": "Lord, quiet what is restless in me."
+    }
+  },
+  {
+    "id": 171,
+    "theme": "Strength",
+    "reference": "Nehemiah 8:10",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Nehemiah 8:10",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "God meets weakness with grace. You can move through today supported, not depleted.",
+      "prayer": "Jesus, help me rely on Your strength today."
+    }
+  },
+  {
+    "id": 172,
+    "theme": "Provision",
+    "reference": "2 Corinthians 9:8",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "2 Corinthians 9:8",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Today, let trust soften the urge to control every outcome.",
+      "prayer": "Father, provide what is needed and calm my anxious planning."
+    }
+  },
+  {
+    "id": 173,
+    "theme": "Guidance",
+    "reference": "Psalm 119:105",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Psalm 119:105",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "Today, ask for enough light for the next step, then move with trust.",
+      "prayer": "Holy Spirit, help me recognise the way to go."
+    }
+  },
+  {
+    "id": 174,
+    "theme": "Comfort",
+    "reference": "Isaiah 66:13",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Isaiah 66:13",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Today, you can bring the heavy thing to God without editing your heart first.",
+      "prayer": "Jesus, meet me with Your gentleness."
+    }
+  },
+  {
+    "id": 175,
+    "theme": "Hope",
+    "reference": "Romans 8:28",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Romans 8:28",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Today, let hope be small but real. A small light is still light.",
+      "prayer": "Jesus, keep my heart open to what You are restoring."
+    }
+  },
+  {
+    "id": 176,
+    "theme": "Grace",
+    "reference": "John 1:16",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "John 1:16",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Today, let grace interrupt the harsh way you speak to yourself.",
+      "prayer": "Lord, soften my heart where I am hard on myself."
+    }
+  },
+  {
+    "id": 177,
+    "theme": "Protection",
+    "reference": "Isaiah 54:17",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Isaiah 54:17",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "Today, you can move with courage because your life is held by God.",
+      "prayer": "Father, keep me close to Your care."
+    }
+  },
+  {
+    "id": 178,
+    "theme": "Rest",
+    "reference": "Psalm 4:8",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Psalm 4:8",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Today, let rest be a faithful response, not something you feel guilty for needing.",
+      "prayer": "Lord, quiet my striving and lead me into rest."
+    }
+  },
+  {
+    "id": 179,
+    "theme": "Forgiveness",
+    "reference": "Ephesians 1:7",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Ephesians 1:7",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Today, you can return to God honestly and receive mercy.",
+      "prayer": "Lord, cleanse my heart and help me begin again."
+    }
+  },
+  {
+    "id": 180,
+    "theme": "Love",
+    "reference": "Jeremiah 31:3",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Jeremiah 31:3",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "Today, let God’s love be the place you start from, not something you chase.",
+      "prayer": "Father, let Your love steady my identity."
+    }
+  },
+  {
+    "id": 181,
+    "theme": "Presence",
+    "reference": "John 14:18",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "John 14:18",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 182,
+    "theme": "Peace",
+    "reference": "Romans 15:13",
+    "front": {
+      "promise": "Let My Spirit grow hope in you.",
+      "reference": "Romans 15:13",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 183,
+    "theme": "Strength",
+    "reference": "Psalm 28:7",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Psalm 28:7",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 184,
+    "theme": "Provision",
+    "reference": "Matthew 6:26",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Matthew 6:26",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 185,
+    "theme": "Guidance",
+    "reference": "John 16:13",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "John 16:13",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  },
+  {
+    "id": 186,
+    "theme": "Comfort",
+    "reference": "Revelation 21:4",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Revelation 21:4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "God does not rush past pain. This promise meets you with tenderness and presence.",
+      "prayer": "God, comfort the places in me that feel tender today."
+    }
+  },
+  {
+    "id": 187,
+    "theme": "Hope",
+    "reference": "1 Peter 1:3",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "1 Peter 1:3",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Hope is not denial. It is choosing to believe God is still at work, even before you see the full picture.",
+      "prayer": "God, renew hope in me today."
+    }
+  },
+  {
+    "id": 188,
+    "theme": "Grace",
+    "reference": "Titus 2:11",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "Titus 2:11",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Grace means you are met by God before you have everything together.",
+      "prayer": "God, help me receive Your grace today."
+    }
+  },
+  {
+    "id": 189,
+    "theme": "Protection",
+    "reference": "Psalm 46:1",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Psalm 46:1",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "This promise reminds you that safety begins with belonging to God.",
+      "prayer": "God, guard my heart, mind, and steps today."
+    }
+  },
+  {
+    "id": 190,
+    "theme": "Rest",
+    "reference": "Isaiah 40:29",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Isaiah 40:29",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Rest is not a reward for finishing everything. Jesus offers rest as an invitation.",
+      "prayer": "Jesus, teach my soul to rest in You."
+    }
+  },
+  {
+    "id": 191,
+    "theme": "Forgiveness",
+    "reference": "Colossians 1:14",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Colossians 1:14",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Forgiveness is not God reluctantly tolerating you. It is His mercy making a way back.",
+      "prayer": "God, help me receive Your forgiveness fully."
+    }
+  },
+  {
+    "id": 192,
+    "theme": "Love",
+    "reference": "Ephesians 3:17-19",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Ephesians 3:17-19",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "God’s love is not a mood that changes over you. It is a covenant reality in Christ.",
+      "prayer": "God, help me live from the truth that I am loved."
+    }
+  },
+  {
+    "id": 193,
+    "theme": "Presence",
+    "reference": "Psalm 46:1",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Psalm 46:1",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God’s presence is not fragile. He is with you in the ordinary parts of this day.",
+      "prayer": "Lord, steady my heart with Your presence."
+    }
+  },
+  {
+    "id": 194,
+    "theme": "Peace",
+    "reference": "2 Thessalonians 3:16",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "2 Thessalonians 3:16",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "This promise invites you to receive peace as a gift, not something you have to force out of yourself.",
+      "prayer": "God, help me receive the peace You give."
+    }
+  },
+  {
+    "id": 195,
+    "theme": "Strength",
+    "reference": "Ephesians 6:10",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Ephesians 6:10",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "Today’s strength may look quiet, steady, and small. That still counts.",
+      "prayer": "Lord, meet me gently in the places I feel weak."
+    }
+  },
+  {
+    "id": 196,
+    "theme": "Provision",
+    "reference": "Psalm 84:11",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Psalm 84:11",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "This promise reminds you that your needs matter to God. You can do your part without carrying tomorrow alone.",
+      "prayer": "Lord, help me recognise Your care today."
+    }
+  },
+  {
+    "id": 197,
+    "theme": "Guidance",
+    "reference": "Psalm 25:4-5",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Psalm 25:4-5",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "This promise reminds you that guidance can be quiet. God can lead through wisdom, peace, counsel, and timing.",
+      "prayer": "Lord, give me wisdom for the choices in front of me."
+    }
+  },
+  {
+    "id": 198,
+    "theme": "Comfort",
+    "reference": "Psalm 23:4",
+    "front": {
+      "promise": "My presence stays with you in hard places.",
+      "reference": "Psalm 23:4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Comfort is not pretending everything is fine. It is being held honestly before God.",
+      "prayer": "Lord, hold what hurts and help me breathe again."
+    }
+  },
+  {
+    "id": 199,
+    "theme": "Hope",
+    "reference": "Hebrews 10:23",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Hebrews 10:23",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "This promise gives you permission to look forward again with God.",
+      "prayer": "Lord, help me trust that You are still working."
+    }
+  },
+  {
+    "id": 200,
+    "theme": "Grace",
+    "reference": "1 Peter 5:10",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "1 Peter 5:10",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "This promise releases you from earning tenderness. God’s grace is already reaching for you.",
+      "prayer": "Jesus, teach me to live from grace, not pressure."
+    }
+  },
+  {
+    "id": 201,
+    "theme": "Protection",
+    "reference": "Psalm 27:1",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Psalm 27:1",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "God’s protection is not always loud, but His care is steady and watchful.",
+      "prayer": "Lord, help me rest in Your covering."
+    }
+  },
+  {
+    "id": 202,
+    "theme": "Rest",
+    "reference": "Psalm 62:1",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Psalm 62:1",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God is gentle with your limits.",
+      "prayer": "God, help me honour my limits today."
+    }
+  },
+  {
+    "id": 203,
+    "theme": "Forgiveness",
+    "reference": "Acts 3:19",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Acts 3:19",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "This promise reminds you that shame does not get the final word in Christ.",
+      "prayer": "Jesus, free me from shame and lead me back to grace."
+    }
+  },
+  {
+    "id": 204,
+    "theme": "Love",
+    "reference": "Psalm 136:1",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Psalm 136:1",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "This promise reminds you that you are not merely noticed by God. You are loved.",
+      "prayer": "Jesus, keep me rooted in Your love today."
+    }
+  },
+  {
+    "id": 205,
+    "theme": "Presence",
+    "reference": "Hebrews 13:5",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Hebrews 13:5",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "Today, let God’s nearness settle the pressure to have everything figured out.",
+      "prayer": "Jesus, help me walk through today knowing You are with me."
+    }
+  },
+  {
+    "id": 206,
+    "theme": "Peace",
+    "reference": "Colossians 3:15",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "Colossians 3:15",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Today, let peace be something you return to slowly, breath by breath.",
+      "prayer": "Lord, quiet what is restless in me."
+    }
+  },
+  {
+    "id": 207,
+    "theme": "Strength",
+    "reference": "Isaiah 41:13",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Isaiah 41:13",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "God meets weakness with grace. You can move through today supported, not depleted.",
+      "prayer": "Jesus, help me rely on Your strength today."
+    }
+  },
+  {
+    "id": 208,
+    "theme": "Provision",
+    "reference": "Genesis 22:14",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Genesis 22:14",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Today, let trust soften the urge to control every outcome.",
+      "prayer": "Father, provide what is needed and calm my anxious planning."
+    }
+  },
+  {
+    "id": 209,
+    "theme": "Guidance",
+    "reference": "Isaiah 58:11",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Isaiah 58:11",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "Today, ask for enough light for the next step, then move with trust.",
+      "prayer": "Holy Spirit, help me recognise the way to go."
+    }
+  },
+  {
+    "id": 210,
+    "theme": "Comfort",
+    "reference": "John 14:16",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "John 14:16",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Today, you can bring the heavy thing to God without editing your heart first.",
+      "prayer": "Jesus, meet me with Your gentleness."
+    }
+  },
+  {
+    "id": 211,
+    "theme": "Hope",
+    "reference": "Psalm 130:5",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Psalm 130:5",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Today, let hope be small but real. A small light is still light.",
+      "prayer": "Jesus, keep my heart open to what You are restoring."
+    }
+  },
+  {
+    "id": 212,
+    "theme": "Grace",
+    "reference": "James 4:6",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "James 4:6",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Today, let grace interrupt the harsh way you speak to yourself.",
+      "prayer": "Lord, soften my heart where I am hard on myself."
+    }
+  },
+  {
+    "id": 213,
+    "theme": "Protection",
+    "reference": "Nahum 1:7",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Nahum 1:7",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "Today, you can move with courage because your life is held by God.",
+      "prayer": "Father, keep me close to Your care."
+    }
+  },
+  {
+    "id": 214,
+    "theme": "Rest",
+    "reference": "Mark 6:31",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Mark 6:31",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Today, let rest be a faithful response, not something you feel guilty for needing.",
+      "prayer": "Lord, quiet my striving and lead me into rest."
+    }
+  },
+  {
+    "id": 215,
+    "theme": "Forgiveness",
+    "reference": "Hebrews 8:12",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Hebrews 8:12",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Today, you can return to God honestly and receive mercy.",
+      "prayer": "Lord, cleanse my heart and help me begin again."
+    }
+  },
+  {
+    "id": 216,
+    "theme": "Love",
+    "reference": "1 John 3:1",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "1 John 3:1",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "Today, let God’s love be the place you start from, not something you chase.",
+      "prayer": "Father, let Your love steady my identity."
+    }
+  },
+  {
+    "id": 217,
+    "theme": "Presence",
+    "reference": "Psalm 139:10",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Psalm 139:10",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 218,
+    "theme": "Peace",
+    "reference": "Psalm 4:8",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "Psalm 4:8",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 219,
+    "theme": "Strength",
+    "reference": "Habakkuk 3:19",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Habakkuk 3:19",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 220,
+    "theme": "Provision",
+    "reference": "Luke 12:31",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Luke 12:31",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 221,
+    "theme": "Guidance",
+    "reference": "Proverbs 16:9",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Proverbs 16:9",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  },
+  {
+    "id": 222,
+    "theme": "Comfort",
+    "reference": "Isaiah 40:1",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Isaiah 40:1",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "God does not rush past pain. This promise meets you with tenderness and presence.",
+      "prayer": "God, comfort the places in me that feel tender today."
+    }
+  },
+  {
+    "id": 223,
+    "theme": "Hope",
+    "reference": "Isaiah 43:19",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Isaiah 43:19",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Hope is not denial. It is choosing to believe God is still at work, even before you see the full picture.",
+      "prayer": "God, renew hope in me today."
+    }
+  },
+  {
+    "id": 224,
+    "theme": "Grace",
+    "reference": "Romans 5:20",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "Romans 5:20",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Grace means you are met by God before you have everything together.",
+      "prayer": "God, help me receive Your grace today."
+    }
+  },
+  {
+    "id": 225,
+    "theme": "Protection",
+    "reference": "Psalm 32:7",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Psalm 32:7",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "This promise reminds you that safety begins with belonging to God.",
+      "prayer": "God, guard my heart, mind, and steps today."
+    }
+  },
+  {
+    "id": 226,
+    "theme": "Rest",
+    "reference": "Psalm 116:7",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Psalm 116:7",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Rest is not a reward for finishing everything. Jesus offers rest as an invitation.",
+      "prayer": "Jesus, teach my soul to rest in You."
+    }
+  },
+  {
+    "id": 227,
+    "theme": "Forgiveness",
+    "reference": "Romans 8:1",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Romans 8:1",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Forgiveness is not God reluctantly tolerating you. It is His mercy making a way back.",
+      "prayer": "God, help me receive Your forgiveness fully."
+    }
+  },
+  {
+    "id": 228,
+    "theme": "Love",
+    "reference": "Galatians 2:20",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Galatians 2:20",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "God’s love is not a mood that changes over you. It is a covenant reality in Christ.",
+      "prayer": "God, help me live from the truth that I am loved."
+    }
+  },
+  {
+    "id": 229,
+    "theme": "Presence",
+    "reference": "Exodus 33:14",
+    "front": {
+      "promise": "My presence will go with you, and I will give you rest.",
+      "reference": "Exodus 33:14",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God’s presence is not fragile. He is with you in the ordinary parts of this day.",
+      "prayer": "Lord, steady my heart with Your presence."
+    }
+  },
+  {
+    "id": 230,
+    "theme": "Peace",
+    "reference": "John 16:33",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "John 16:33",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "This promise invites you to receive peace as a gift, not something you have to force out of yourself.",
+      "prayer": "God, help me receive the peace You give."
+    }
+  },
+  {
+    "id": 231,
+    "theme": "Strength",
+    "reference": "Psalm 73:26",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Psalm 73:26",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "Today’s strength may look quiet, steady, and small. That still counts.",
+      "prayer": "Lord, meet me gently in the places I feel weak."
+    }
+  },
+  {
+    "id": 232,
+    "theme": "Provision",
+    "reference": "Psalm 37:25",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Psalm 37:25",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "This promise reminds you that your needs matter to God. You can do your part without carrying tomorrow alone.",
+      "prayer": "Lord, help me recognise Your care today."
+    }
+  },
+  {
+    "id": 233,
+    "theme": "Guidance",
+    "reference": "Psalm 37:23",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Psalm 37:23",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "This promise reminds you that guidance can be quiet. God can lead through wisdom, peace, counsel, and timing.",
+      "prayer": "Lord, give me wisdom for the choices in front of me."
+    }
+  },
+  {
+    "id": 234,
+    "theme": "Comfort",
+    "reference": "Psalm 94:19",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Psalm 94:19",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Comfort is not pretending everything is fine. It is being held honestly before God.",
+      "prayer": "Lord, hold what hurts and help me breathe again."
+    }
+  },
+  {
+    "id": 235,
+    "theme": "Hope",
+    "reference": "Romans 5:5",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Romans 5:5",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "This promise gives you permission to look forward again with God.",
+      "prayer": "Lord, help me trust that You are still working."
+    }
+  },
+  {
+    "id": 236,
+    "theme": "Grace",
+    "reference": "2 Timothy 1:9",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "2 Timothy 1:9",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "This promise releases you from earning tenderness. God’s grace is already reaching for you.",
+      "prayer": "Jesus, teach me to live from grace, not pressure."
+    }
+  },
+  {
+    "id": 237,
+    "theme": "Protection",
+    "reference": "1 Peter 1:5",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "1 Peter 1:5",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "God’s protection is not always loud, but His care is steady and watchful.",
+      "prayer": "Lord, help me rest in Your covering."
+    }
+  },
+  {
+    "id": 238,
+    "theme": "Rest",
+    "reference": "Isaiah 30:15",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Isaiah 30:15",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God is gentle with your limits.",
+      "prayer": "God, help me honour my limits today."
+    }
+  },
+  {
+    "id": 239,
+    "theme": "Forgiveness",
+    "reference": "Psalm 86:5",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Psalm 86:5",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "This promise reminds you that shame does not get the final word in Christ.",
+      "prayer": "Jesus, free me from shame and lead me back to grace."
+    }
+  },
+  {
+    "id": 240,
+    "theme": "Love",
+    "reference": "John 15:9",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "John 15:9",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "This promise reminds you that you are not merely noticed by God. You are loved.",
+      "prayer": "Jesus, keep me rooted in Your love today."
+    }
+  },
+  {
+    "id": 241,
+    "theme": "Presence",
+    "reference": "Isaiah 41:10",
+    "front": {
+      "promise": "I am with you. Do not be afraid.",
+      "reference": "Isaiah 41:10",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "Today, let God’s nearness settle the pressure to have everything figured out.",
+      "prayer": "Jesus, help me walk through today knowing You are with me."
+    }
+  },
+  {
+    "id": 242,
+    "theme": "Peace",
+    "reference": "John 14:27",
+    "front": {
+      "promise": "My peace is yours today.",
+      "reference": "John 14:27",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Today, let peace be something you return to slowly, breath by breath.",
+      "prayer": "Lord, quiet what is restless in me."
+    }
+  },
+  {
+    "id": 243,
+    "theme": "Strength",
+    "reference": "Isaiah 40:31",
+    "front": {
+      "promise": "I will give you strength to rise again.",
+      "reference": "Isaiah 40:31",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "God meets weakness with grace. You can move through today supported, not depleted.",
+      "prayer": "Jesus, help me rely on Your strength today."
+    }
+  },
+  {
+    "id": 244,
+    "theme": "Provision",
+    "reference": "Philippians 4:19",
+    "front": {
+      "promise": "I will supply what you need.",
+      "reference": "Philippians 4:19",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Today, let trust soften the urge to control every outcome.",
+      "prayer": "Father, provide what is needed and calm my anxious planning."
+    }
+  },
+  {
+    "id": 245,
+    "theme": "Guidance",
+    "reference": "Proverbs 3:5-6",
+    "front": {
+      "promise": "Lean on Me; I will make your way straight.",
+      "reference": "Proverbs 3:5-6",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "Today, ask for enough light for the next step, then move with trust.",
+      "prayer": "Holy Spirit, help me recognise the way to go."
+    }
+  },
+  {
+    "id": 246,
+    "theme": "Comfort",
+    "reference": "Matthew 5:4",
+    "front": {
+      "promise": "I meet you with comfort when your heart is heavy.",
+      "reference": "Matthew 5:4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Today, you can bring the heavy thing to God without editing your heart first.",
+      "prayer": "Jesus, meet me with Your gentleness."
+    }
+  },
+  {
+    "id": 247,
+    "theme": "Hope",
+    "reference": "Romans 15:13",
+    "front": {
+      "promise": "I will fill you with hope and peace.",
+      "reference": "Romans 15:13",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Today, let hope be small but real. A small light is still light.",
+      "prayer": "Jesus, keep my heart open to what You are restoring."
+    }
+  },
+  {
+    "id": 248,
+    "theme": "Grace",
+    "reference": "2 Corinthians 12:9",
+    "front": {
+      "promise": "My strength meets you in weakness.",
+      "reference": "2 Corinthians 12:9",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Today, let grace interrupt the harsh way you speak to yourself.",
+      "prayer": "Lord, soften my heart where I am hard on myself."
+    }
+  },
+  {
+    "id": 249,
+    "theme": "Protection",
+    "reference": "Psalm 91:4",
+    "front": {
+      "promise": "I am your shelter and covering.",
+      "reference": "Psalm 91:4",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "Today, you can move with courage because your life is held by God.",
+      "prayer": "Father, keep me close to Your care."
+    }
+  },
+  {
+    "id": 250,
+    "theme": "Rest",
+    "reference": "Matthew 11:28",
+    "front": {
+      "promise": "Come to Me, and I will give you rest.",
+      "reference": "Matthew 11:28",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Today, let rest be a faithful response, not something you feel guilty for needing.",
+      "prayer": "Lord, quiet my striving and lead me into rest."
+    }
+  },
+  {
+    "id": 251,
+    "theme": "Forgiveness",
+    "reference": "1 John 1:9",
+    "front": {
+      "promise": "I am faithful to forgive and cleanse you.",
+      "reference": "1 John 1:9",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Today, you can return to God honestly and receive mercy.",
+      "prayer": "Lord, cleanse my heart and help me begin again."
+    }
+  },
+  {
+    "id": 252,
+    "theme": "Love",
+    "reference": "Romans 8:38-39",
+    "front": {
+      "promise": "You are held in a love that cannot be broken.",
+      "reference": "Romans 8:38-39",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "Today, let God’s love be the place you start from, not something you chase.",
+      "prayer": "Father, let Your love steady my identity."
+    }
+  },
+  {
+    "id": 253,
+    "theme": "Presence",
+    "reference": "Matthew 28:20",
+    "front": {
+      "promise": "I am with you always.",
+      "reference": "Matthew 28:20",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 254,
+    "theme": "Peace",
+    "reference": "Philippians 4:7",
+    "front": {
+      "promise": "I will guard your heart with peace.",
+      "reference": "Philippians 4:7",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 255,
+    "theme": "Strength",
+    "reference": "Philippians 4:13",
+    "front": {
+      "promise": "My strength is with you today.",
+      "reference": "Philippians 4:13",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 256,
+    "theme": "Provision",
+    "reference": "Matthew 6:33",
+    "front": {
+      "promise": "Seek Me first, and I will care for what you need.",
+      "reference": "Matthew 6:33",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 257,
+    "theme": "Guidance",
+    "reference": "Psalm 32:8",
+    "front": {
+      "promise": "I will guide you with My eye on you.",
+      "reference": "Psalm 32:8",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  },
+  {
+    "id": 258,
+    "theme": "Comfort",
+    "reference": "Psalm 34:18",
+    "front": {
+      "promise": "Your pain does not push Me away.",
+      "reference": "Psalm 34:18",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "God does not rush past pain. This promise meets you with tenderness and presence.",
+      "prayer": "God, comfort the places in me that feel tender today."
+    }
+  },
+  {
+    "id": 259,
+    "theme": "Hope",
+    "reference": "Jeremiah 29:11",
+    "front": {
+      "promise": "I have plans to give you hope and a future.",
+      "reference": "Jeremiah 29:11",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Hope is not denial. It is choosing to believe God is still at work, even before you see the full picture.",
+      "prayer": "God, renew hope in me today."
+    }
+  },
+  {
+    "id": 260,
+    "theme": "Grace",
+    "reference": "Ephesians 2:8",
+    "front": {
+      "promise": "Grace is My gift to you.",
+      "reference": "Ephesians 2:8",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Grace means you are met by God before you have everything together.",
+      "prayer": "God, help me receive Your grace today."
+    }
+  },
+  {
+    "id": 261,
+    "theme": "Protection",
+    "reference": "2 Thessalonians 3:3",
+    "front": {
+      "promise": "My faithfulness is your covering.",
+      "reference": "2 Thessalonians 3:3",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "This promise reminds you that safety begins with belonging to God.",
+      "prayer": "God, guard my heart, mind, and steps today."
+    }
+  },
+  {
+    "id": 262,
+    "theme": "Rest",
+    "reference": "Exodus 33:14",
+    "front": {
+      "promise": "My presence will go with you, and I will give you rest.",
+      "reference": "Exodus 33:14",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Rest is not a reward for finishing everything. Jesus offers rest as an invitation.",
+      "prayer": "Jesus, teach my soul to rest in You."
+    }
+  },
+  {
+    "id": 263,
+    "theme": "Forgiveness",
+    "reference": "Psalm 103:12",
+    "front": {
+      "promise": "My forgiveness is wider than your failure.",
+      "reference": "Psalm 103:12",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Forgiveness is not God reluctantly tolerating you. It is His mercy making a way back.",
+      "prayer": "God, help me receive Your forgiveness fully."
+    }
+  },
+  {
+    "id": 264,
+    "theme": "Love",
+    "reference": "John 3:16",
+    "front": {
+      "promise": "I gave My Son so you could receive life.",
+      "reference": "John 3:16",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "God’s love is not a mood that changes over you. It is a covenant reality in Christ.",
+      "prayer": "God, help me live from the truth that I am loved."
+    }
+  },
+  {
+    "id": 265,
+    "theme": "Presence",
+    "reference": "Deuteronomy 31:8",
+    "front": {
+      "promise": "I go before you.",
+      "reference": "Deuteronomy 31:8",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God’s presence is not fragile. He is with you in the ordinary parts of this day.",
+      "prayer": "Lord, steady my heart with Your presence."
+    }
+  },
+  {
+    "id": 266,
+    "theme": "Peace",
+    "reference": "Isaiah 26:3",
+    "front": {
+      "promise": "I will hold you in perfect peace as you trust Me.",
+      "reference": "Isaiah 26:3",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "This promise invites you to receive peace as a gift, not something you have to force out of yourself.",
+      "prayer": "God, help me receive the peace You give."
+    }
+  },
+  {
+    "id": 267,
+    "theme": "Strength",
+    "reference": "Psalm 18:2",
+    "front": {
+      "promise": "I am your firm place today.",
+      "reference": "Psalm 18:2",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "Today’s strength may look quiet, steady, and small. That still counts.",
+      "prayer": "Lord, meet me gently in the places I feel weak."
+    }
+  },
+  {
+    "id": 268,
+    "theme": "Provision",
+    "reference": "Psalm 23:1",
+    "front": {
+      "promise": "I am your Shepherd; you will not lack.",
+      "reference": "Psalm 23:1",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "This promise reminds you that your needs matter to God. You can do your part without carrying tomorrow alone.",
+      "prayer": "Lord, help me recognise Your care today."
+    }
+  },
+  {
+    "id": 269,
+    "theme": "Guidance",
+    "reference": "James 1:5",
+    "front": {
+      "promise": "I will not shame you for needing wisdom.",
+      "reference": "James 1:5",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "This promise reminds you that guidance can be quiet. God can lead through wisdom, peace, counsel, and timing.",
+      "prayer": "Lord, give me wisdom for the choices in front of me."
+    }
+  },
+  {
+    "id": 270,
+    "theme": "Comfort",
+    "reference": "2 Corinthians 1:3-4",
+    "front": {
+      "promise": "You are not alone in sorrow; I am near.",
+      "reference": "2 Corinthians 1:3-4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Comfort is not pretending everything is fine. It is being held honestly before God.",
+      "prayer": "Lord, hold what hurts and help me breathe again."
+    }
+  },
+  {
+    "id": 271,
+    "theme": "Hope",
+    "reference": "Psalm 42:11",
+    "front": {
+      "promise": "Hope in Me again.",
+      "reference": "Psalm 42:11",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "This promise gives you permission to look forward again with God.",
+      "prayer": "Lord, help me trust that You are still working."
+    }
+  },
+  {
+    "id": 272,
+    "theme": "Grace",
+    "reference": "Hebrews 4:16",
+    "front": {
+      "promise": "You will find mercy and grace with Me.",
+      "reference": "Hebrews 4:16",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "This promise releases you from earning tenderness. God’s grace is already reaching for you.",
+      "prayer": "Jesus, teach me to live from grace, not pressure."
+    }
+  },
+  {
+    "id": 273,
+    "theme": "Protection",
+    "reference": "Psalm 121:7-8",
+    "front": {
+      "promise": "I am your keeper today.",
+      "reference": "Psalm 121:7-8",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "God’s protection is not always loud, but His care is steady and watchful.",
+      "prayer": "Lord, help me rest in Your covering."
+    }
+  },
+  {
+    "id": 274,
+    "theme": "Rest",
+    "reference": "Psalm 23:2",
+    "front": {
+      "promise": "I will lead you beside quiet waters.",
+      "reference": "Psalm 23:2",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God is gentle with your limits.",
+      "prayer": "God, help me honour my limits today."
+    }
+  },
+  {
+    "id": 275,
+    "theme": "Forgiveness",
+    "reference": "Isaiah 1:18",
+    "front": {
+      "promise": "Come to Me; I am able to cleanse you.",
+      "reference": "Isaiah 1:18",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "This promise reminds you that shame does not get the final word in Christ.",
+      "prayer": "Jesus, free me from shame and lead me back to grace."
+    }
+  },
+  {
+    "id": 276,
+    "theme": "Love",
+    "reference": "1 John 4:9",
+    "front": {
+      "promise": "I did not keep My love distant from you.",
+      "reference": "1 John 4:9",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "This promise reminds you that you are not merely noticed by God. You are loved.",
+      "prayer": "Jesus, keep me rooted in Your love today."
+    }
+  },
+  {
+    "id": 277,
+    "theme": "Presence",
+    "reference": "Psalm 23:4",
+    "front": {
+      "promise": "I am with you in the valley.",
+      "reference": "Psalm 23:4",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "Today, let God’s nearness settle the pressure to have everything figured out.",
+      "prayer": "Jesus, help me walk through today knowing You are with me."
+    }
+  },
+  {
+    "id": 278,
+    "theme": "Peace",
+    "reference": "Numbers 6:26",
+    "front": {
+      "promise": "Receive My peace today.",
+      "reference": "Numbers 6:26",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Today, let peace be something you return to slowly, breath by breath.",
+      "prayer": "Lord, quiet what is restless in me."
+    }
+  },
+  {
+    "id": 279,
+    "theme": "Strength",
+    "reference": "2 Corinthians 12:9",
+    "front": {
+      "promise": "You can rest in My sufficient grace.",
+      "reference": "2 Corinthians 12:9",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "God meets weakness with grace. You can move through today supported, not depleted.",
+      "prayer": "Jesus, help me rely on Your strength today."
+    }
+  },
+  {
+    "id": 280,
+    "theme": "Provision",
+    "reference": "Psalm 34:10",
+    "front": {
+      "promise": "Seek Me, and you will lack no good thing.",
+      "reference": "Psalm 34:10",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Today, let trust soften the urge to control every outcome.",
+      "prayer": "Father, provide what is needed and calm my anxious planning."
+    }
+  },
+  {
+    "id": 281,
+    "theme": "Guidance",
+    "reference": "Isaiah 30:21",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Isaiah 30:21",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "Today, ask for enough light for the next step, then move with trust.",
+      "prayer": "Holy Spirit, help me recognise the way to go."
+    }
+  },
+  {
+    "id": 282,
+    "theme": "Comfort",
+    "reference": "Psalm 147:3",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Psalm 147:3",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Today, you can bring the heavy thing to God without editing your heart first.",
+      "prayer": "Jesus, meet me with Your gentleness."
+    }
+  },
+  {
+    "id": 283,
+    "theme": "Hope",
+    "reference": "Lamentations 3:22-23",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Lamentations 3:22-23",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Today, let hope be small but real. A small light is still light.",
+      "prayer": "Jesus, keep my heart open to what You are restoring."
+    }
+  },
+  {
+    "id": 284,
+    "theme": "Grace",
+    "reference": "Romans 6:14",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "Romans 6:14",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Today, let grace interrupt the harsh way you speak to yourself.",
+      "prayer": "Lord, soften my heart where I am hard on myself."
+    }
+  },
+  {
+    "id": 285,
+    "theme": "Protection",
+    "reference": "Proverbs 18:10",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Proverbs 18:10",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "Today, you can move with courage because your life is held by God.",
+      "prayer": "Father, keep me close to Your care."
+    }
+  },
+  {
+    "id": 286,
+    "theme": "Rest",
+    "reference": "Hebrews 4:9",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Hebrews 4:9",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Today, let rest be a faithful response, not something you feel guilty for needing.",
+      "prayer": "Lord, quiet my striving and lead me into rest."
+    }
+  },
+  {
+    "id": 287,
+    "theme": "Forgiveness",
+    "reference": "Micah 7:19",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Micah 7:19",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Today, you can return to God honestly and receive mercy.",
+      "prayer": "Lord, cleanse my heart and help me begin again."
+    }
+  },
+  {
+    "id": 288,
+    "theme": "Love",
+    "reference": "Zephaniah 3:17",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Zephaniah 3:17",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "Today, let God’s love be the place you start from, not something you chase.",
+      "prayer": "Father, let Your love steady my identity."
+    }
+  },
+  {
+    "id": 289,
+    "theme": "Presence",
+    "reference": "Joshua 1:9",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Joshua 1:9",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 290,
+    "theme": "Peace",
+    "reference": "Psalm 29:11",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "Psalm 29:11",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 291,
+    "theme": "Strength",
+    "reference": "Nehemiah 8:10",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Nehemiah 8:10",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 292,
+    "theme": "Provision",
+    "reference": "2 Corinthians 9:8",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "2 Corinthians 9:8",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 293,
+    "theme": "Guidance",
+    "reference": "Psalm 119:105",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Psalm 119:105",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  },
+  {
+    "id": 294,
+    "theme": "Comfort",
+    "reference": "Isaiah 66:13",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Isaiah 66:13",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "God does not rush past pain. This promise meets you with tenderness and presence.",
+      "prayer": "God, comfort the places in me that feel tender today."
+    }
+  },
+  {
+    "id": 295,
+    "theme": "Hope",
+    "reference": "Romans 8:28",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Romans 8:28",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Hope is not denial. It is choosing to believe God is still at work, even before you see the full picture.",
+      "prayer": "God, renew hope in me today."
+    }
+  },
+  {
+    "id": 296,
+    "theme": "Grace",
+    "reference": "John 1:16",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "John 1:16",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Grace means you are met by God before you have everything together.",
+      "prayer": "God, help me receive Your grace today."
+    }
+  },
+  {
+    "id": 297,
+    "theme": "Protection",
+    "reference": "Isaiah 54:17",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Isaiah 54:17",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "This promise reminds you that safety begins with belonging to God.",
+      "prayer": "God, guard my heart, mind, and steps today."
+    }
+  },
+  {
+    "id": 298,
+    "theme": "Rest",
+    "reference": "Psalm 4:8",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Psalm 4:8",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Rest is not a reward for finishing everything. Jesus offers rest as an invitation.",
+      "prayer": "Jesus, teach my soul to rest in You."
+    }
+  },
+  {
+    "id": 299,
+    "theme": "Forgiveness",
+    "reference": "Ephesians 1:7",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Ephesians 1:7",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Forgiveness is not God reluctantly tolerating you. It is His mercy making a way back.",
+      "prayer": "God, help me receive Your forgiveness fully."
+    }
+  },
+  {
+    "id": 300,
+    "theme": "Love",
+    "reference": "Jeremiah 31:3",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Jeremiah 31:3",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "God’s love is not a mood that changes over you. It is a covenant reality in Christ.",
+      "prayer": "God, help me live from the truth that I am loved."
+    }
+  },
+  {
+    "id": 301,
+    "theme": "Presence",
+    "reference": "John 14:18",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "John 14:18",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God’s presence is not fragile. He is with you in the ordinary parts of this day.",
+      "prayer": "Lord, steady my heart with Your presence."
+    }
+  },
+  {
+    "id": 302,
+    "theme": "Peace",
+    "reference": "Romans 15:13",
+    "front": {
+      "promise": "Let My Spirit grow hope in you.",
+      "reference": "Romans 15:13",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "This promise invites you to receive peace as a gift, not something you have to force out of yourself.",
+      "prayer": "God, help me receive the peace You give."
+    }
+  },
+  {
+    "id": 303,
+    "theme": "Strength",
+    "reference": "Psalm 28:7",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Psalm 28:7",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "Today’s strength may look quiet, steady, and small. That still counts.",
+      "prayer": "Lord, meet me gently in the places I feel weak."
+    }
+  },
+  {
+    "id": 304,
+    "theme": "Provision",
+    "reference": "Matthew 6:26",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Matthew 6:26",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "This promise reminds you that your needs matter to God. You can do your part without carrying tomorrow alone.",
+      "prayer": "Lord, help me recognise Your care today."
+    }
+  },
+  {
+    "id": 305,
+    "theme": "Guidance",
+    "reference": "John 16:13",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "John 16:13",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "This promise reminds you that guidance can be quiet. God can lead through wisdom, peace, counsel, and timing.",
+      "prayer": "Lord, give me wisdom for the choices in front of me."
+    }
+  },
+  {
+    "id": 306,
+    "theme": "Comfort",
+    "reference": "Revelation 21:4",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Revelation 21:4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Comfort is not pretending everything is fine. It is being held honestly before God.",
+      "prayer": "Lord, hold what hurts and help me breathe again."
+    }
+  },
+  {
+    "id": 307,
+    "theme": "Hope",
+    "reference": "1 Peter 1:3",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "1 Peter 1:3",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "This promise gives you permission to look forward again with God.",
+      "prayer": "Lord, help me trust that You are still working."
+    }
+  },
+  {
+    "id": 308,
+    "theme": "Grace",
+    "reference": "Titus 2:11",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "Titus 2:11",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "This promise releases you from earning tenderness. God’s grace is already reaching for you.",
+      "prayer": "Jesus, teach me to live from grace, not pressure."
+    }
+  },
+  {
+    "id": 309,
+    "theme": "Protection",
+    "reference": "Psalm 46:1",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Psalm 46:1",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "God’s protection is not always loud, but His care is steady and watchful.",
+      "prayer": "Lord, help me rest in Your covering."
+    }
+  },
+  {
+    "id": 310,
+    "theme": "Rest",
+    "reference": "Isaiah 40:29",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Isaiah 40:29",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God is gentle with your limits.",
+      "prayer": "God, help me honour my limits today."
+    }
+  },
+  {
+    "id": 311,
+    "theme": "Forgiveness",
+    "reference": "Colossians 1:14",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Colossians 1:14",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "This promise reminds you that shame does not get the final word in Christ.",
+      "prayer": "Jesus, free me from shame and lead me back to grace."
+    }
+  },
+  {
+    "id": 312,
+    "theme": "Love",
+    "reference": "Ephesians 3:17-19",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Ephesians 3:17-19",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "This promise reminds you that you are not merely noticed by God. You are loved.",
+      "prayer": "Jesus, keep me rooted in Your love today."
+    }
+  },
+  {
+    "id": 313,
+    "theme": "Presence",
+    "reference": "Psalm 46:1",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Psalm 46:1",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "Today, let God’s nearness settle the pressure to have everything figured out.",
+      "prayer": "Jesus, help me walk through today knowing You are with me."
+    }
+  },
+  {
+    "id": 314,
+    "theme": "Peace",
+    "reference": "2 Thessalonians 3:16",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "2 Thessalonians 3:16",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Today, let peace be something you return to slowly, breath by breath.",
+      "prayer": "Lord, quiet what is restless in me."
+    }
+  },
+  {
+    "id": 315,
+    "theme": "Strength",
+    "reference": "Ephesians 6:10",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Ephesians 6:10",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "God meets weakness with grace. You can move through today supported, not depleted.",
+      "prayer": "Jesus, help me rely on Your strength today."
+    }
+  },
+  {
+    "id": 316,
+    "theme": "Provision",
+    "reference": "Psalm 84:11",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Psalm 84:11",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Today, let trust soften the urge to control every outcome.",
+      "prayer": "Father, provide what is needed and calm my anxious planning."
+    }
+  },
+  {
+    "id": 317,
+    "theme": "Guidance",
+    "reference": "Psalm 25:4-5",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Psalm 25:4-5",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "Today, ask for enough light for the next step, then move with trust.",
+      "prayer": "Holy Spirit, help me recognise the way to go."
+    }
+  },
+  {
+    "id": 318,
+    "theme": "Comfort",
+    "reference": "Psalm 23:4",
+    "front": {
+      "promise": "My presence stays with you in hard places.",
+      "reference": "Psalm 23:4",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Today, you can bring the heavy thing to God without editing your heart first.",
+      "prayer": "Jesus, meet me with Your gentleness."
+    }
+  },
+  {
+    "id": 319,
+    "theme": "Hope",
+    "reference": "Hebrews 10:23",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Hebrews 10:23",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Today, let hope be small but real. A small light is still light.",
+      "prayer": "Jesus, keep my heart open to what You are restoring."
+    }
+  },
+  {
+    "id": 320,
+    "theme": "Grace",
+    "reference": "1 Peter 5:10",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "1 Peter 5:10",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Today, let grace interrupt the harsh way you speak to yourself.",
+      "prayer": "Lord, soften my heart where I am hard on myself."
+    }
+  },
+  {
+    "id": 321,
+    "theme": "Protection",
+    "reference": "Psalm 27:1",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Psalm 27:1",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "Today, you can move with courage because your life is held by God.",
+      "prayer": "Father, keep me close to Your care."
+    }
+  },
+  {
+    "id": 322,
+    "theme": "Rest",
+    "reference": "Psalm 62:1",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Psalm 62:1",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Today, let rest be a faithful response, not something you feel guilty for needing.",
+      "prayer": "Lord, quiet my striving and lead me into rest."
+    }
+  },
+  {
+    "id": 323,
+    "theme": "Forgiveness",
+    "reference": "Acts 3:19",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Acts 3:19",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Today, you can return to God honestly and receive mercy.",
+      "prayer": "Lord, cleanse my heart and help me begin again."
+    }
+  },
+  {
+    "id": 324,
+    "theme": "Love",
+    "reference": "Psalm 136:1",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Psalm 136:1",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "Today, let God’s love be the place you start from, not something you chase.",
+      "prayer": "Father, let Your love steady my identity."
+    }
+  },
+  {
+    "id": 325,
+    "theme": "Presence",
+    "reference": "Hebrews 13:5",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Hebrews 13:5",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 326,
+    "theme": "Peace",
+    "reference": "Colossians 3:15",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "Colossians 3:15",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 327,
+    "theme": "Strength",
+    "reference": "Isaiah 41:13",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Isaiah 41:13",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 328,
+    "theme": "Provision",
+    "reference": "Genesis 22:14",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Genesis 22:14",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 329,
+    "theme": "Guidance",
+    "reference": "Isaiah 58:11",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Isaiah 58:11",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  },
+  {
+    "id": 330,
+    "theme": "Comfort",
+    "reference": "John 14:16",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "John 14:16",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "God does not rush past pain. This promise meets you with tenderness and presence.",
+      "prayer": "God, comfort the places in me that feel tender today."
+    }
+  },
+  {
+    "id": 331,
+    "theme": "Hope",
+    "reference": "Psalm 130:5",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Psalm 130:5",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Hope is not denial. It is choosing to believe God is still at work, even before you see the full picture.",
+      "prayer": "God, renew hope in me today."
+    }
+  },
+  {
+    "id": 332,
+    "theme": "Grace",
+    "reference": "James 4:6",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "James 4:6",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Grace means you are met by God before you have everything together.",
+      "prayer": "God, help me receive Your grace today."
+    }
+  },
+  {
+    "id": 333,
+    "theme": "Protection",
+    "reference": "Nahum 1:7",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Nahum 1:7",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "This promise reminds you that safety begins with belonging to God.",
+      "prayer": "God, guard my heart, mind, and steps today."
+    }
+  },
+  {
+    "id": 334,
+    "theme": "Rest",
+    "reference": "Mark 6:31",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Mark 6:31",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Rest is not a reward for finishing everything. Jesus offers rest as an invitation.",
+      "prayer": "Jesus, teach my soul to rest in You."
+    }
+  },
+  {
+    "id": 335,
+    "theme": "Forgiveness",
+    "reference": "Hebrews 8:12",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Hebrews 8:12",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Forgiveness is not God reluctantly tolerating you. It is His mercy making a way back.",
+      "prayer": "God, help me receive Your forgiveness fully."
+    }
+  },
+  {
+    "id": 336,
+    "theme": "Love",
+    "reference": "1 John 3:1",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "1 John 3:1",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "God’s love is not a mood that changes over you. It is a covenant reality in Christ.",
+      "prayer": "God, help me live from the truth that I am loved."
+    }
+  },
+  {
+    "id": 337,
+    "theme": "Presence",
+    "reference": "Psalm 139:10",
+    "front": {
+      "promise": "I am with you today.",
+      "reference": "Psalm 139:10",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God’s presence is not fragile. He is with you in the ordinary parts of this day.",
+      "prayer": "Lord, steady my heart with Your presence."
+    }
+  },
+  {
+    "id": 338,
+    "theme": "Peace",
+    "reference": "Psalm 4:8",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "Psalm 4:8",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "This promise invites you to receive peace as a gift, not something you have to force out of yourself.",
+      "prayer": "God, help me receive the peace You give."
+    }
+  },
+  {
+    "id": 339,
+    "theme": "Strength",
+    "reference": "Habakkuk 3:19",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Habakkuk 3:19",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "Today’s strength may look quiet, steady, and small. That still counts.",
+      "prayer": "Lord, meet me gently in the places I feel weak."
+    }
+  },
+  {
+    "id": 340,
+    "theme": "Provision",
+    "reference": "Luke 12:31",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Luke 12:31",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "This promise reminds you that your needs matter to God. You can do your part without carrying tomorrow alone.",
+      "prayer": "Lord, help me recognise Your care today."
+    }
+  },
+  {
+    "id": 341,
+    "theme": "Guidance",
+    "reference": "Proverbs 16:9",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Proverbs 16:9",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "This promise reminds you that guidance can be quiet. God can lead through wisdom, peace, counsel, and timing.",
+      "prayer": "Lord, give me wisdom for the choices in front of me."
+    }
+  },
+  {
+    "id": 342,
+    "theme": "Comfort",
+    "reference": "Isaiah 40:1",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Isaiah 40:1",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Comfort is not pretending everything is fine. It is being held honestly before God.",
+      "prayer": "Lord, hold what hurts and help me breathe again."
+    }
+  },
+  {
+    "id": 343,
+    "theme": "Hope",
+    "reference": "Isaiah 43:19",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Isaiah 43:19",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "This promise gives you permission to look forward again with God.",
+      "prayer": "Lord, help me trust that You are still working."
+    }
+  },
+  {
+    "id": 344,
+    "theme": "Grace",
+    "reference": "Romans 5:20",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "Romans 5:20",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "This promise releases you from earning tenderness. God’s grace is already reaching for you.",
+      "prayer": "Jesus, teach me to live from grace, not pressure."
+    }
+  },
+  {
+    "id": 345,
+    "theme": "Protection",
+    "reference": "Psalm 32:7",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "Psalm 32:7",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "God’s protection is not always loud, but His care is steady and watchful.",
+      "prayer": "Lord, help me rest in Your covering."
+    }
+  },
+  {
+    "id": 346,
+    "theme": "Rest",
+    "reference": "Psalm 116:7",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Psalm 116:7",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "This promise reminds you that God is gentle with your limits.",
+      "prayer": "God, help me honour my limits today."
+    }
+  },
+  {
+    "id": 347,
+    "theme": "Forgiveness",
+    "reference": "Romans 8:1",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Romans 8:1",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "This promise reminds you that shame does not get the final word in Christ.",
+      "prayer": "Jesus, free me from shame and lead me back to grace."
+    }
+  },
+  {
+    "id": 348,
+    "theme": "Love",
+    "reference": "Galatians 2:20",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "Galatians 2:20",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "This promise reminds you that you are not merely noticed by God. You are loved.",
+      "prayer": "Jesus, keep me rooted in Your love today."
+    }
+  },
+  {
+    "id": 349,
+    "theme": "Presence",
+    "reference": "Exodus 33:14",
+    "front": {
+      "promise": "My presence will go with you, and I will give you rest.",
+      "reference": "Exodus 33:14",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "Today, let God’s nearness settle the pressure to have everything figured out.",
+      "prayer": "Jesus, help me walk through today knowing You are with me."
+    }
+  },
+  {
+    "id": 350,
+    "theme": "Peace",
+    "reference": "John 16:33",
+    "front": {
+      "promise": "Let My peace settle your heart.",
+      "reference": "John 16:33",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Today, let peace be something you return to slowly, breath by breath.",
+      "prayer": "Lord, quiet what is restless in me."
+    }
+  },
+  {
+    "id": 351,
+    "theme": "Strength",
+    "reference": "Psalm 73:26",
+    "front": {
+      "promise": "I will help you stand today.",
+      "reference": "Psalm 73:26",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "God meets weakness with grace. You can move through today supported, not depleted.",
+      "prayer": "Jesus, help me rely on Your strength today."
+    }
+  },
+  {
+    "id": 352,
+    "theme": "Provision",
+    "reference": "Psalm 37:25",
+    "front": {
+      "promise": "I know what you need.",
+      "reference": "Psalm 37:25",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Today, let trust soften the urge to control every outcome.",
+      "prayer": "Father, provide what is needed and calm my anxious planning."
+    }
+  },
+  {
+    "id": 353,
+    "theme": "Guidance",
+    "reference": "Psalm 37:23",
+    "front": {
+      "promise": "I will show you the way to go.",
+      "reference": "Psalm 37:23",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "Today, ask for enough light for the next step, then move with trust.",
+      "prayer": "Holy Spirit, help me recognise the way to go."
+    }
+  },
+  {
+    "id": 354,
+    "theme": "Comfort",
+    "reference": "Psalm 94:19",
+    "front": {
+      "promise": "I will meet your heart with comfort.",
+      "reference": "Psalm 94:19",
+      "theme": "Comfort"
+    },
+    "back": {
+      "reflection": "Today, you can bring the heavy thing to God without editing your heart first.",
+      "prayer": "Jesus, meet me with Your gentleness."
+    }
+  },
+  {
+    "id": 355,
+    "theme": "Hope",
+    "reference": "Romans 5:5",
+    "front": {
+      "promise": "I am giving you hope for today.",
+      "reference": "Romans 5:5",
+      "theme": "Hope"
+    },
+    "back": {
+      "reflection": "Today, let hope be small but real. A small light is still light.",
+      "prayer": "Jesus, keep my heart open to what You are restoring."
+    }
+  },
+  {
+    "id": 356,
+    "theme": "Grace",
+    "reference": "2 Timothy 1:9",
+    "front": {
+      "promise": "You are met by grace today.",
+      "reference": "2 Timothy 1:9",
+      "theme": "Grace"
+    },
+    "back": {
+      "reflection": "Today, let grace interrupt the harsh way you speak to yourself.",
+      "prayer": "Lord, soften my heart where I am hard on myself."
+    }
+  },
+  {
+    "id": 357,
+    "theme": "Protection",
+    "reference": "1 Peter 1:5",
+    "front": {
+      "promise": "You are safe in My care.",
+      "reference": "1 Peter 1:5",
+      "theme": "Protection"
+    },
+    "back": {
+      "reflection": "Today, you can move with courage because your life is held by God.",
+      "prayer": "Father, keep me close to Your care."
+    }
+  },
+  {
+    "id": 358,
+    "theme": "Rest",
+    "reference": "Isaiah 30:15",
+    "front": {
+      "promise": "Come to Me and rest.",
+      "reference": "Isaiah 30:15",
+      "theme": "Rest"
+    },
+    "back": {
+      "reflection": "Today, let rest be a faithful response, not something you feel guilty for needing.",
+      "prayer": "Lord, quiet my striving and lead me into rest."
+    }
+  },
+  {
+    "id": 359,
+    "theme": "Forgiveness",
+    "reference": "Psalm 86:5",
+    "front": {
+      "promise": "My mercy is greater than your failure.",
+      "reference": "Psalm 86:5",
+      "theme": "Forgiveness"
+    },
+    "back": {
+      "reflection": "Today, you can return to God honestly and receive mercy.",
+      "prayer": "Lord, cleanse my heart and help me begin again."
+    }
+  },
+  {
+    "id": 360,
+    "theme": "Love",
+    "reference": "John 15:9",
+    "front": {
+      "promise": "I have set My love on you.",
+      "reference": "John 15:9",
+      "theme": "Love"
+    },
+    "back": {
+      "reflection": "Today, let God’s love be the place you start from, not something you chase.",
+      "prayer": "Father, let Your love steady my identity."
+    }
+  },
+  {
+    "id": 361,
+    "theme": "Presence",
+    "reference": "Isaiah 41:10",
+    "front": {
+      "promise": "I am with you. Do not be afraid.",
+      "reference": "Isaiah 41:10",
+      "theme": "Presence"
+    },
+    "back": {
+      "reflection": "You do not have to move through today like you are alone. God’s nearness is a steady place to return to.",
+      "prayer": "God, help me remember that You are near today."
+    }
+  },
+  {
+    "id": 362,
+    "theme": "Peace",
+    "reference": "John 14:27",
+    "front": {
+      "promise": "My peace is yours today.",
+      "reference": "John 14:27",
+      "theme": "Peace"
+    },
+    "back": {
+      "reflection": "Peace does not mean every detail is perfect. It means your heart can be held even while life is still moving.",
+      "prayer": "Jesus, settle my heart with Your peace today."
+    }
+  },
+  {
+    "id": 363,
+    "theme": "Strength",
+    "reference": "Isaiah 40:31",
+    "front": {
+      "promise": "I will give you strength to rise again.",
+      "reference": "Isaiah 40:31",
+      "theme": "Strength"
+    },
+    "back": {
+      "reflection": "You are allowed to need help. This promise reminds you that strength can come from God, not just from pushing harder.",
+      "prayer": "God, strengthen me for what today requires."
+    }
+  },
+  {
+    "id": 364,
+    "theme": "Provision",
+    "reference": "Philippians 4:19",
+    "front": {
+      "promise": "I will supply what you need.",
+      "reference": "Philippians 4:19",
+      "theme": "Provision"
+    },
+    "back": {
+      "reflection": "Provision is an invitation to trust God with what you can see and what you cannot yet see.",
+      "prayer": "God, teach me to trust You with what I need."
+    }
+  },
+  {
+    "id": 365,
+    "theme": "Guidance",
+    "reference": "Proverbs 3:5-6",
+    "front": {
+      "promise": "Lean on Me; I will make your way straight.",
+      "reference": "Proverbs 3:5-6",
+      "theme": "Guidance"
+    },
+    "back": {
+      "reflection": "You do not need to see the entire road to take the next faithful step.",
+      "prayer": "God, guide my steps today."
+    }
+  }
+]
