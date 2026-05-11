@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		58D78B382FAF4D38000EF5AB /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D78B372FAF4D38000EF5AB /* WidgetKit.framework */; };
 		58D78B3A2FAF4D38000EF5AB /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D78B392FAF4D38000EF5AB /* SwiftUI.framework */; };
-		58D78B492FAF4D3A000EF5AB /* AldraWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 58D78B352FAF4D38000EF5AB /* AldraWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		58D78B492FAF4D3A000EF5AB /* SamakWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 58D78B352FAF4D38000EF5AB /* SamakWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -18,7 +18,7 @@
 			containerPortal = 58D78AD32FABCFF0000EF5AB /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 58D78B342FAF4D38000EF5AB;
-			remoteInfo = AldraWidgetExtension;
+			remoteInfo = SamakWidgetExtension;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -29,7 +29,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				58D78B492FAF4D3A000EF5AB /* AldraWidgetExtension.appex in Embed Foundation Extensions */,
+				58D78B492FAF4D3A000EF5AB /* SamakWidgetExtension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -37,29 +37,29 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		58D78ADB2FABCFF0000EF5AB /* RIddlet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RIddlet.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		58D78B352FAF4D38000EF5AB /* AldraWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = AldraWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		58D78ADB2FABCFF0000EF5AB /* Samak.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Samak.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		58D78B352FAF4D38000EF5AB /* SamakWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = SamakWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		58D78B372FAF4D38000EF5AB /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		58D78B392FAF4D38000EF5AB /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
-		58D78B4F2FAF5429000EF5AB /* AldraWidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AldraWidgetExtension.entitlements; sourceTree = "<group>"; };
+		58D78B4F2FAF5429000EF5AB /* SamakWidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SamakWidgetExtension.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		58D78AF62FABD32D000EF5AB /* Exceptions for "RIddlet" folder in "RIddlet" target */ = {
+		58D78AF62FABD32D000EF5AB /* Exceptions for "Samak" folder in "Samak" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 58D78ADA2FABCFF0000EF5AB /* RIddlet */;
+			target = 58D78ADA2FABCFF0000EF5AB /* Samak */;
 		};
-		58D78B4D2FAF4D3A000EF5AB /* Exceptions for "AldraWidget" folder in "AldraWidgetExtension" target */ = {
+		58D78B4D2FAF4D3A000EF5AB /* Exceptions for "SamakWidget" folder in "SamakWidgetExtension" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 58D78B342FAF4D38000EF5AB /* AldraWidgetExtension */;
+			target = 58D78B342FAF4D38000EF5AB /* SamakWidgetExtension */;
 		};
-		58D78B562FAF6508000EF5AB /* Exceptions for "RIddlet" folder in "AldraWidgetExtension" target */ = {
+		58D78B562FAF6508000EF5AB /* Exceptions for "Samak" folder in "SamakWidgetExtension" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"Extensions/Bungee-Regular.ttf",
@@ -68,26 +68,26 @@
 				"Extensions/DMSans_18pt-Regular.ttf",
 				promises.json,
 			);
-			target = 58D78B342FAF4D38000EF5AB /* AldraWidgetExtension */;
+			target = 58D78B342FAF4D38000EF5AB /* SamakWidgetExtension */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		58D78ADD2FABCFF0000EF5AB /* RIddlet */ = {
+		58D78ADD2FABCFF0000EF5AB /* Samak */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				58D78AF62FABD32D000EF5AB /* Exceptions for "RIddlet" folder in "RIddlet" target */,
-				58D78B562FAF6508000EF5AB /* Exceptions for "RIddlet" folder in "AldraWidgetExtension" target */,
+				58D78AF62FABD32D000EF5AB /* Exceptions for "Samak" folder in "Samak" target */,
+				58D78B562FAF6508000EF5AB /* Exceptions for "Samak" folder in "SamakWidgetExtension" target */,
 			);
-			path = RIddlet;
+			path = Samak;
 			sourceTree = "<group>";
 		};
-		58D78B3B2FAF4D38000EF5AB /* AldraWidget */ = {
+		58D78B3B2FAF4D38000EF5AB /* SamakWidget */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				58D78B4D2FAF4D3A000EF5AB /* Exceptions for "AldraWidget" folder in "AldraWidgetExtension" target */,
+				58D78B4D2FAF4D3A000EF5AB /* Exceptions for "SamakWidget" folder in "SamakWidgetExtension" target */,
 			);
-			path = AldraWidget;
+			path = SamakWidget;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -115,9 +115,9 @@
 		58D78AD22FABCFF0000EF5AB = {
 			isa = PBXGroup;
 			children = (
-				58D78B4F2FAF5429000EF5AB /* AldraWidgetExtension.entitlements */,
-				58D78ADD2FABCFF0000EF5AB /* RIddlet */,
-				58D78B3B2FAF4D38000EF5AB /* AldraWidget */,
+				58D78B4F2FAF5429000EF5AB /* SamakWidgetExtension.entitlements */,
+				58D78ADD2FABCFF0000EF5AB /* Samak */,
+				58D78B3B2FAF4D38000EF5AB /* SamakWidget */,
 				58D78B362FAF4D38000EF5AB /* Frameworks */,
 				58D78ADC2FABCFF0000EF5AB /* Products */,
 			);
@@ -126,8 +126,8 @@
 		58D78ADC2FABCFF0000EF5AB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				58D78ADB2FABCFF0000EF5AB /* RIddlet.app */,
-				58D78B352FAF4D38000EF5AB /* AldraWidgetExtension.appex */,
+				58D78ADB2FABCFF0000EF5AB /* Samak.app */,
+				58D78B352FAF4D38000EF5AB /* SamakWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -144,9 +144,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		58D78ADA2FABCFF0000EF5AB /* RIddlet */ = {
+		58D78ADA2FABCFF0000EF5AB /* Samak */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 58D78AE62FABCFF1000EF5AB /* Build configuration list for PBXNativeTarget "RIddlet" */;
+			buildConfigurationList = 58D78AE62FABCFF1000EF5AB /* Build configuration list for PBXNativeTarget "Samak" */;
 			buildPhases = (
 				58D78AD72FABCFF0000EF5AB /* Sources */,
 				58D78AD82FABCFF0000EF5AB /* Frameworks */,
@@ -159,18 +159,18 @@
 				58D78B482FAF4D3A000EF5AB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				58D78ADD2FABCFF0000EF5AB /* RIddlet */,
+				58D78ADD2FABCFF0000EF5AB /* Samak */,
 			);
-			name = RIddlet;
+			name = Samak;
 			packageProductDependencies = (
 			);
-			productName = RIddlet;
-			productReference = 58D78ADB2FABCFF0000EF5AB /* RIddlet.app */;
+			productName = Samak;
+			productReference = 58D78ADB2FABCFF0000EF5AB /* Samak.app */;
 			productType = "com.apple.product-type.application";
 		};
-		58D78B342FAF4D38000EF5AB /* AldraWidgetExtension */ = {
+		58D78B342FAF4D38000EF5AB /* SamakWidgetExtension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 58D78B4A2FAF4D3A000EF5AB /* Build configuration list for PBXNativeTarget "AldraWidgetExtension" */;
+			buildConfigurationList = 58D78B4A2FAF4D3A000EF5AB /* Build configuration list for PBXNativeTarget "SamakWidgetExtension" */;
 			buildPhases = (
 				58D78B312FAF4D38000EF5AB /* Sources */,
 				58D78B322FAF4D38000EF5AB /* Frameworks */,
@@ -181,13 +181,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				58D78B3B2FAF4D38000EF5AB /* AldraWidget */,
+				58D78B3B2FAF4D38000EF5AB /* SamakWidget */,
 			);
-			name = AldraWidgetExtension;
+			name = SamakWidgetExtension;
 			packageProductDependencies = (
 			);
-			productName = AldraWidgetExtension;
-			productReference = 58D78B352FAF4D38000EF5AB /* AldraWidgetExtension.appex */;
+			productName = SamakWidgetExtension;
+			productReference = 58D78B352FAF4D38000EF5AB /* SamakWidgetExtension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
@@ -209,7 +209,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 58D78AD62FABCFF0000EF5AB /* Build configuration list for PBXProject "RIddlet" */;
+			buildConfigurationList = 58D78AD62FABCFF0000EF5AB /* Build configuration list for PBXProject "Samak" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -223,8 +223,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				58D78ADA2FABCFF0000EF5AB /* RIddlet */,
-				58D78B342FAF4D38000EF5AB /* AldraWidgetExtension */,
+				58D78ADA2FABCFF0000EF5AB /* Samak */,
+				58D78B342FAF4D38000EF5AB /* SamakWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -266,7 +266,7 @@
 /* Begin PBXTargetDependency section */
 		58D78B482FAF4D3A000EF5AB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 58D78B342FAF4D38000EF5AB /* AldraWidgetExtension */;
+			target = 58D78B342FAF4D38000EF5AB /* SamakWidgetExtension */;
 			targetProxy = 58D78B472FAF4D3A000EF5AB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -394,7 +394,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = RIddlet/RIddlet.entitlements;
+				CODE_SIGN_ENTITLEMENTS = Samak/Samak.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VHYAKLF9Z4;
@@ -403,7 +403,7 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = RIddlet/Info.plist;
+				INFOPLIST_FILE = Samak/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Samak;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
@@ -443,7 +443,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = RIddlet/RIddlet.entitlements;
+				CODE_SIGN_ENTITLEMENTS = Samak/Samak.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VHYAKLF9Z4;
@@ -452,7 +452,7 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = RIddlet/Info.plist;
+				INFOPLIST_FILE = Samak/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Samak;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
@@ -490,13 +490,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
-				CODE_SIGN_ENTITLEMENTS = AldraWidgetExtension.entitlements;
+				CODE_SIGN_ENTITLEMENTS = SamakWidgetExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VHYAKLF9Z4;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = AldraWidget/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = AldraWidget;
+				INFOPLIST_FILE = SamakWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Samak Widget";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -523,13 +523,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
-				CODE_SIGN_ENTITLEMENTS = AldraWidgetExtension.entitlements;
+				CODE_SIGN_ENTITLEMENTS = SamakWidgetExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VHYAKLF9Z4;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = AldraWidget/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = AldraWidget;
+				INFOPLIST_FILE = SamakWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Samak Widget";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -555,7 +555,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		58D78AD62FABCFF0000EF5AB /* Build configuration list for PBXProject "RIddlet" */ = {
+		58D78AD62FABCFF0000EF5AB /* Build configuration list for PBXProject "Samak" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58D78AE42FABCFF1000EF5AB /* Debug */,
@@ -564,7 +564,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		58D78AE62FABCFF1000EF5AB /* Build configuration list for PBXNativeTarget "RIddlet" */ = {
+		58D78AE62FABCFF1000EF5AB /* Build configuration list for PBXNativeTarget "Samak" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58D78AE72FABCFF1000EF5AB /* Debug */,
@@ -573,7 +573,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		58D78B4A2FAF4D3A000EF5AB /* Build configuration list for PBXNativeTarget "AldraWidgetExtension" */ = {
+		58D78B4A2FAF4D3A000EF5AB /* Build configuration list for PBXNativeTarget "SamakWidgetExtension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58D78B4B2FAF4D3A000EF5AB /* Debug */,

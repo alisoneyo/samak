@@ -2,8 +2,8 @@ import WidgetKit
 import SwiftUI
 
 @main
-struct AldraWidgetBundle: WidgetBundle {
+struct SamakWidgetBundle: WidgetBundle {
     var body: some Widget {
-        AldraWidget()
+        SamakWidget()
     }
 }

@@ -3,14 +3,14 @@ import SwiftUI
 
 // MARK: - Shared Constants
 
-private enum AldraApp {
-    static let appGroup    = "group.com.alison.Riddlet"
+private enum SamakWidgetConfig {
+    static let appGroup    = SharedPromiseConfig.appGroup
     static let deepLinkURL = URL(string: "aldra://today")!
 }
 
 // MARK: - Models
 
-struct AldraPromise: Codable {
+struct SamakPromise: Codable {
     let id: Int
     let theme: String
     let reference: String
@@ -30,43 +30,52 @@ struct AldraPromise: Codable {
 
 // MARK: - Data Loading
 
-private func loadPromises() -> [AldraPromise] {
+private func loadPromises() -> [SamakPromise] {
     if let groupURL = FileManager.default
-        .containerURL(forSecurityApplicationGroupIdentifier: AldraApp.appGroup)?
+        .containerURL(forSecurityApplicationGroupIdentifier: SamakWidgetConfig.appGroup)?
         .appendingPathComponent("promises.json"),
        let data = try? Data(contentsOf: groupURL),
-       let promises = try? JSONDecoder().decode([AldraPromise].self, from: data) {
+       let promises = try? JSONDecoder().decode([SamakPromise].self, from: data) {
         return promises
     }
     if let url = Bundle.main.url(forResource: "promises", withExtension: "json"),
        let data = try? Data(contentsOf: url),
-       let promises = try? JSONDecoder().decode([AldraPromise].self, from: data) {
+       let promises = try? JSONDecoder().decode([SamakPromise].self, from: data) {
         return promises
     }
     return []
 }
 
 private func todayDayNumber() -> Int {
-    let defaults = UserDefaults(suiteName: AldraApp.appGroup)!
-    let epoch = defaults.object(forKey: "epochDate") as? Date ?? Date()
-    let today = Calendar.current.startOfDay(for: Date())
-    let start = Calendar.current.startOfDay(for: epoch)
-    let days  = Calendar.current.dateComponents([.day], from: start, to: today).day ?? 0
-    return max(1, days + 1)
+    let store = PromiseScheduleStore()
+    let defaults = UserDefaults(suiteName: SamakWidgetConfig.appGroup)!
+    let startDate = (defaults.object(forKey: SharedPromiseConfig.installDateKey) as? Date)
+        ?? Calendar.current.startOfDay(for: Date())
+    return store.daysSinceStart(from: startDate) + 1
 }
 
-private func promiseForToday() -> AldraPromise {
+private func promiseForToday() -> SamakPromise {
     let promises = loadPromises()
     guard !promises.isEmpty else { return .placeholder }
-    let defaults = UserDefaults(suiteName: AldraApp.appGroup)!
-    let offset = defaults.integer(forKey: "promiseOffset")
-    let day = todayDayNumber() - 1
-    let index = (day + offset) % promises.count
-    return promises[index]
+    let store = PromiseScheduleStore()
+    let requiredDayIndex = max(todayDayNumber(), 1)
+    guard let snapshot = store.prepareSchedule(
+        promiseCount: promises.count,
+        requiredDayIndex: requiredDayIndex
+    ) else {
+        return .placeholder
+    }
+
+    let todayIndex = store.daysSinceStart(from: snapshot.startDate)
+    guard todayIndex < snapshot.scheduledIndices.count else {
+        return .placeholder
+    }
+
+    return promises[snapshot.scheduledIndices[todayIndex]]
 }
 
-private extension AldraPromise {
-    static let placeholder = AldraPromise(
+private extension SamakPromise {
+    static let placeholder = SamakPromise(
         id: 1,
         theme: "Presence",
         reference: "Isaiah 41:10",
@@ -86,7 +95,7 @@ private extension AldraPromise {
 
 struct PromiseEntry: TimelineEntry {
     let date: Date
-    let promise: AldraPromise
+    let promise: SamakPromise
     let dayNumber: Int
 }
 
@@ -300,7 +309,7 @@ struct MediumWidgetView: View {
 
 // MARK: - Entry View
 
-struct AldraWidgetEntryView: View {
+struct SamakWidgetEntryView: View {
     @Environment(\.widgetFamily) var family
     let entry: PromiseEntry
 
@@ -318,12 +327,12 @@ struct AldraWidgetEntryView: View {
 
 // MARK: - Widget Declaration
 
-struct AldraWidget: Widget {
+struct SamakWidget: Widget {
     let kind: String = "AldraWidget"
 
     var body: some WidgetConfiguration {
         StaticConfiguration(kind: kind, provider: PromiseProvider()) { entry in
-            AldraWidgetEntryView(entry: entry)
+            SamakWidgetEntryView(entry: entry)
                 .containerBackground(
                     LinearGradient(
                         colors: [Token.gradientTop, Token.gradientBottom],
@@ -332,9 +341,9 @@ struct AldraWidget: Widget {
                     ),
                     for: .widget
                 )
-                .widgetURL(AldraApp.deepLinkURL)
+                .widgetURL(SamakWidgetConfig.deepLinkURL)
         }
-        .configurationDisplayName("Samak - God's Promise")
+        .configurationDisplayName("Samak Widget")
         .description("A promise from God, refreshed every morning.")
         .supportedFamilies([.systemSmall, .systemMedium])
         .contentMarginsDisabled()
@@ -357,13 +366,13 @@ private extension Color {
 // MARK: - Previews
 
 #Preview("Small", as: .systemSmall) {
-    AldraWidget()
+    SamakWidget()
 } timeline: {
     PromiseEntry(date: .now, promise: .placeholder, dayNumber: 1)
 }
 
 #Preview("Medium", as: .systemMedium) {
-    AldraWidget()
+    SamakWidget()
 } timeline: {
     PromiseEntry(date: .now, promise: .placeholder, dayNumber: 1)
 }

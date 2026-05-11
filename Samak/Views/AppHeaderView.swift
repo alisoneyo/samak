@@ -33,9 +33,9 @@ struct AppHeaderView: View {
         // Day counter
         HStack(spacing: 4) {
             Image(systemName: "")
-                .font(.system(size: 16, weight: .semibold))
-            Text("PROMISE #\(vm.dayNumber(for: vm.currentIndex))")
-                .font(.dmSansMedium(16))
+                .font(.system(size: 14, weight: .semibold))
+            Text("GOD'S PROMISE FOR:")
+                .font(.dmSansBold(13))
         }
         .foregroundColor(Color.riddletDark.opacity(0.45))
         

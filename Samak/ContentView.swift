@@ -1,9 +1,11 @@
 import SwiftUI
+import Combine
 
 struct ContentView: View {
     @StateObject private var vm: RiddleViewModel
     @State private var dragOffset: CGFloat = 0
     @State private var selectedIndex: Int
+    private let refreshTimer = Timer.publish(every: 1, on: .main, in: .common).autoconnect()
 
     private let cardWidth: CGFloat = 320
     private let cardSpacing: CGFloat = 16
@@ -78,6 +80,12 @@ struct ContentView: View {
         .onReceive(NotificationCenter.default.publisher(for: UIApplication.willEnterForegroundNotification)) { _ in
             vm.load()
             selectedIndex = vm.todayIndex
+        }
+        .onReceive(refreshTimer) { _ in
+            if vm.refreshIfNeeded() {
+                selectedIndex = min(selectedIndex, max(vm.riddles.count - 1, 0))
+                vm.currentIndex = selectedIndex
+            }
         }
     }
 }
