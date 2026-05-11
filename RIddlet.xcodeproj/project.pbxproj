@@ -6,14 +6,88 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		58D78B382FAF4D38000EF5AB /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D78B372FAF4D38000EF5AB /* WidgetKit.framework */; };
+		58D78B3A2FAF4D38000EF5AB /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D78B392FAF4D38000EF5AB /* SwiftUI.framework */; };
+		58D78B492FAF4D3A000EF5AB /* AldraWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 58D78B352FAF4D38000EF5AB /* AldraWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		58D78B472FAF4D3A000EF5AB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 58D78AD32FABCFF0000EF5AB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 58D78B342FAF4D38000EF5AB;
+			remoteInfo = AldraWidgetExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		58D78B4E2FAF4D3A000EF5AB /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				58D78B492FAF4D3A000EF5AB /* AldraWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		58D78ADB2FABCFF0000EF5AB /* RIddlet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RIddlet.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		58D78B352FAF4D38000EF5AB /* AldraWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = AldraWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		58D78B372FAF4D38000EF5AB /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		58D78B392FAF4D38000EF5AB /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		58D78B4F2FAF5429000EF5AB /* AldraWidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AldraWidgetExtension.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		58D78AF62FABD32D000EF5AB /* Exceptions for "RIddlet" folder in "RIddlet" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 58D78ADA2FABCFF0000EF5AB /* RIddlet */;
+		};
+		58D78B4D2FAF4D3A000EF5AB /* Exceptions for "AldraWidget" folder in "AldraWidgetExtension" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 58D78B342FAF4D38000EF5AB /* AldraWidgetExtension */;
+		};
+		58D78B562FAF6508000EF5AB /* Exceptions for "RIddlet" folder in "AldraWidgetExtension" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"Extensions/Bungee-Regular.ttf",
+				"Extensions/DMSans_18pt-Bold.ttf",
+				"Extensions/DMSans_18pt-Medium.ttf",
+				"Extensions/DMSans_18pt-Regular.ttf",
+				promises.json,
+			);
+			target = 58D78B342FAF4D38000EF5AB /* AldraWidgetExtension */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		58D78ADD2FABCFF0000EF5AB /* RIddlet */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				58D78AF62FABD32D000EF5AB /* Exceptions for "RIddlet" folder in "RIddlet" target */,
+				58D78B562FAF6508000EF5AB /* Exceptions for "RIddlet" folder in "AldraWidgetExtension" target */,
+			);
 			path = RIddlet;
+			sourceTree = "<group>";
+		};
+		58D78B3B2FAF4D38000EF5AB /* AldraWidget */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				58D78B4D2FAF4D3A000EF5AB /* Exceptions for "AldraWidget" folder in "AldraWidgetExtension" target */,
+			);
+			path = AldraWidget;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -26,13 +100,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		58D78B322FAF4D38000EF5AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				58D78B3A2FAF4D38000EF5AB /* SwiftUI.framework in Frameworks */,
+				58D78B382FAF4D38000EF5AB /* WidgetKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		58D78AD22FABCFF0000EF5AB = {
 			isa = PBXGroup;
 			children = (
+				58D78B4F2FAF5429000EF5AB /* AldraWidgetExtension.entitlements */,
 				58D78ADD2FABCFF0000EF5AB /* RIddlet */,
+				58D78B3B2FAF4D38000EF5AB /* AldraWidget */,
+				58D78B362FAF4D38000EF5AB /* Frameworks */,
 				58D78ADC2FABCFF0000EF5AB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -41,8 +127,18 @@
 			isa = PBXGroup;
 			children = (
 				58D78ADB2FABCFF0000EF5AB /* RIddlet.app */,
+				58D78B352FAF4D38000EF5AB /* AldraWidgetExtension.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		58D78B362FAF4D38000EF5AB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				58D78B372FAF4D38000EF5AB /* WidgetKit.framework */,
+				58D78B392FAF4D38000EF5AB /* SwiftUI.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -55,10 +151,12 @@
 				58D78AD72FABCFF0000EF5AB /* Sources */,
 				58D78AD82FABCFF0000EF5AB /* Frameworks */,
 				58D78AD92FABCFF0000EF5AB /* Resources */,
+				58D78B4E2FAF4D3A000EF5AB /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				58D78B482FAF4D3A000EF5AB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				58D78ADD2FABCFF0000EF5AB /* RIddlet */,
@@ -69,6 +167,28 @@
 			productName = RIddlet;
 			productReference = 58D78ADB2FABCFF0000EF5AB /* RIddlet.app */;
 			productType = "com.apple.product-type.application";
+		};
+		58D78B342FAF4D38000EF5AB /* AldraWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 58D78B4A2FAF4D3A000EF5AB /* Build configuration list for PBXNativeTarget "AldraWidgetExtension" */;
+			buildPhases = (
+				58D78B312FAF4D38000EF5AB /* Sources */,
+				58D78B322FAF4D38000EF5AB /* Frameworks */,
+				58D78B332FAF4D38000EF5AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				58D78B3B2FAF4D38000EF5AB /* AldraWidget */,
+			);
+			name = AldraWidgetExtension;
+			packageProductDependencies = (
+			);
+			productName = AldraWidgetExtension;
+			productReference = 58D78B352FAF4D38000EF5AB /* AldraWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -81,6 +201,10 @@
 				LastUpgradeCheck = 2640;
 				TargetAttributes = {
 					58D78ADA2FABCFF0000EF5AB = {
+						CreatedOnToolsVersion = 26.4.1;
+						LastSwiftMigration = 2640;
+					};
+					58D78B342FAF4D38000EF5AB = {
 						CreatedOnToolsVersion = 26.4.1;
 					};
 				};
@@ -100,12 +224,20 @@
 			projectRoot = "";
 			targets = (
 				58D78ADA2FABCFF0000EF5AB /* RIddlet */,
+				58D78B342FAF4D38000EF5AB /* AldraWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
 		58D78AD92FABCFF0000EF5AB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		58D78B332FAF4D38000EF5AB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -122,7 +254,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		58D78B312FAF4D38000EF5AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		58D78B482FAF4D3A000EF5AB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 58D78B342FAF4D38000EF5AB /* AldraWidgetExtension */;
+			targetProxy = 58D78B472FAF4D3A000EF5AB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		58D78AE42FABCFF1000EF5AB /* Debug */ = {
@@ -246,6 +393,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = RIddlet/RIddlet.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VHYAKLF9Z4;
@@ -254,6 +403,8 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RIddlet/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Samak;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -278,6 +429,7 @@
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
@@ -290,6 +442,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = RIddlet/RIddlet.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VHYAKLF9Z4;
@@ -298,6 +452,8 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RIddlet/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Samak;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -329,6 +485,73 @@
 			};
 			name = Release;
 		};
+		58D78B4B2FAF4D3A000EF5AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_ENTITLEMENTS = AldraWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VHYAKLF9Z4;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AldraWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = AldraWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alison.RIddlet.AldraWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		58D78B4C2FAF4D3A000EF5AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_ENTITLEMENTS = AldraWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VHYAKLF9Z4;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AldraWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = AldraWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alison.RIddlet.AldraWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -346,6 +569,15 @@
 			buildConfigurations = (
 				58D78AE72FABCFF1000EF5AB /* Debug */,
 				58D78AE82FABCFF1000EF5AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		58D78B4A2FAF4D3A000EF5AB /* Build configuration list for PBXNativeTarget "AldraWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				58D78B4B2FAF4D3A000EF5AB /* Debug */,
+				58D78B4C2FAF4D3A000EF5AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

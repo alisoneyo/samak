@@ -6,57 +6,87 @@ struct CardBackView: View {
     let index: Int
 
     var body: some View {
-        ZStack(alignment: .topLeading) {
+        ZStack {
+            RoundedRectangle(cornerRadius: 26, style: .continuous)
+                .fill(
+                    LinearGradient(
+                        stops: [
+                            .init(color: Color(hex: "FFF8E8"), location: 0.0),
+                            .init(color: Color(hex: "F1E9DA"), location: 1.0),
+                        ],
+                        startPoint: .top,
+                        endPoint: .bottom
+                    )
+                )
 
-            RoundedRectangle(cornerRadius: 24, style: .continuous)
-                .fill(Color.riddletCard)
+            Canvas { ctx, size in
+                let spacing: CGFloat = 13
+                var x: CGFloat = -size.height
+                while x < size.width + size.height {
+                    var line = Path()
+                    line.move(to: CGPoint(x: x, y: 0))
+                    line.addLine(to: CGPoint(x: x + size.height, y: size.height))
+                    ctx.stroke(line, with: .color(Color(hex: "1A1410").opacity(0.04)), lineWidth: 1)
+                    x += spacing
+                }
+            }
+            .clipShape(RoundedRectangle(cornerRadius: 26, style: .continuous))
 
             VStack(alignment: .leading, spacing: 0) {
 
-                Text("THE ANSWER")
+                Text(riddle.front.theme.uppercased())
                     .font(.dmSansMedium(12))
-                    .foregroundColor(Color.riddletDark.opacity(0.45))
+                    .foregroundColor(Color(hex: "E8552B"))
                     .tracking(2.5)
-                    .padding(.top, 28)
 
-                Text(riddle.answer.uppercased())
-                    .font(.bungee(52))
-                    .foregroundColor(Color.riddletDark)
+                Text(riddle.back.reflection)
+                    .font(.dmSans(20))
+                    .foregroundColor(Color(hex: "1A1410"))
                     .fixedSize(horizontal: false, vertical: true)
-                    .lineSpacing(4)
-                    .padding(.top, 10)
-
-                Divider()
-                    .padding(.vertical, 20)
-
-                Text("THE RIDDLE")
-                    .font(.dmSansMedium(11))
-                    .foregroundColor(Color.riddletDark.opacity(0.4))
-                    .tracking(1.6)
-
-                Text("\"\(riddle.question)\"")
-                    .font(.dmSans(15))
-                    .italic()
-                    .foregroundColor(Color.riddletDark.opacity(0.55))
-                    .fixedSize(horizontal: false, vertical: true)
-                    .lineSpacing(3)
-                    .padding(.top, 6)
+                    .lineSpacing(5)
+                    .padding(.top, 14)
 
                 Spacer()
 
-                Text("tap to flip back")
-                    .font(.dmSans(11))
-                    .foregroundColor(Color.riddletDark.opacity(0.28))
+                Rectangle()
+                    .fill(Color(hex: "1A1410").opacity(0.15))
+                    .frame(height: 1)
+                    .padding(.bottom, 16)
+
+                Text("PRAYER")
+                    .font(.dmSansMedium(12))
+                    .foregroundColor(Color(hex: "1A1410").opacity(0.45))
+                    .tracking(2.0)
+                    .padding(.bottom, 8)
+
+                Text(riddle.back.prayer)
+                    .font(.dmSans(16))
+                    .italic()
+                    .foregroundColor(Color(hex: "1A1410").opacity(0.65))
+                    .fixedSize(horizontal: false, vertical: true)
+                    .lineSpacing(3)
+
+                Spacer()
+                    .frame(maxHeight: 20)
+
+                Text(riddle.front.reference)
+                    .font(.dmSansMedium(14))
+                    .foregroundColor(Color(hex: "E8552B").opacity(0.7))
+                    .tracking(1.0)
                     .frame(maxWidth: .infinity, alignment: .center)
-                    .padding(.bottom, 20)
             }
-            .padding(.horizontal, 24)
+            .padding(.horizontal, 28)
+            .padding(.top, 28)
+            .padding(.bottom, 24)
         }
-        .clipShape(RoundedRectangle(cornerRadius: 24, style: .continuous))
         .overlay(
-            RoundedRectangle(cornerRadius: 24, style: .continuous)
-                .stroke(Color.riddletDark, lineWidth: 3)
+            RoundedRectangle(cornerRadius: 26, style: .continuous)
+                .stroke(Color(hex: "1A1410"), lineWidth: 3)
         )
-        .shadow(color: Color.riddletDark.opacity(0.85), radius: 0, x: 5, y: 7)
+        .background(
+            RoundedRectangle(cornerRadius: 26, style: .continuous)
+                .fill(Color(hex: "1A1410"))
+                .offset(x: 7, y: 9)
+        )
     }
 }

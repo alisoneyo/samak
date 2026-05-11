@@ -5,94 +5,116 @@ struct CardFrontView: View {
     @ObservedObject var vm: RiddleViewModel
     let index: Int
 
-    private var cardDateLabel: String {
-        let df = DateFormatter(); df.dateFormat = "EEE · MMM d"
-        return df.string(from: vm.date(for: index)).uppercased()
-    }
-
     var body: some View {
-        ZStack(alignment: .bottom) {
-
-            RoundedRectangle(cornerRadius: 24, style: .continuous)
-                .fill(
-                    LinearGradient(
-                        stops: [
-                            .init(color: Color(hex: "F27B3C"), location: 0.0),
-                            .init(color: Color(hex: "E8531A"), location: 0.55),
-                            .init(color: Color(hex: "CC3D0A"), location: 1.0),
-                        ],
-                        startPoint: .topLeading,
-                        endPoint: .bottomTrailing
-                    )
+        RoundedRectangle(cornerRadius: 26, style: .continuous)
+            .fill(
+                LinearGradient(
+                    stops: [
+                        .init(color: Color(hex: "FF8040"), location: 0.0),
+                        .init(color: Color(hex: "E8552B"), location: 0.45),
+                        .init(color: Color(hex: "C84A2C"), location: 1.0),
+                    ],
+                    startPoint: .topLeading,
+                    endPoint: .bottomTrailing
                 )
-
-            RoundedRectangle(cornerRadius: 24, style: .continuous)
-                .fill(
-                    RadialGradient(
-                        colors: [Color.white.opacity(0.22), .clear],
-                        center: .init(x: 0.42, y: 0.28),
-                        startRadius: 10,
-                        endRadius: 200
-                    )
-                )
-
-            VStack(spacing: 0) {
-
-                HStack {
-                    Text("DAY \(vm.dayNumber(for: index))")
-                        .font(.dmSansMedium(12))
-                        .foregroundColor(.white.opacity(0.75))
-                    Spacer()
-                    Text(cardDateLabel)
-                        .font(.dmSansMedium(12))
-                        .foregroundColor(.white.opacity(0.75))
-                }
-                .padding(.horizontal, 20)
-                .padding(.top, 20)
-
-                Spacer()
-
-                Image(systemName: riddle.icon)
-                    .font(.system(size: 68, weight: .light))
-                    .foregroundColor(Color.riddletDark.opacity(0.70))
-                    .shadow(color: .black.opacity(0.12), radius: 6, x: 0, y: 3)
-
-                Spacer()
-
-                VStack(alignment: .leading, spacing: 8) {
-
-                    Text(vm.isToday(index) ? "TODAY'S RIDDLE" : "THE RIDDLE")
-                        .font(.dmSansMedium(11))
-                        .foregroundColor(Color.riddletOrange)
-                        .tracking(1.6)
-
-                    Text("\"\(riddle.question)\"")
-                        .font(.dmSansBold(17))
-                        .foregroundColor(Color.riddletDark)
-                        .fixedSize(horizontal: false, vertical: true)
-                        .lineSpacing(3)
-
-                    if !vm.isFlipped(index) {
-                        Divider().padding(.top, 4)
-                        Text("— TAP TO REVEAL —")
-                            .font(.dmSans(11))
-                            .foregroundColor(Color.riddletDark.opacity(0.35))
-                            .frame(maxWidth: .infinity, alignment: .center)
-                            .padding(.top, 2)
+            )
+            .overlay(
+                Canvas { ctx, size in
+                    let spacing: CGFloat = 13
+                    var x: CGFloat = -size.height
+                    while x < size.width + size.height {
+                        var line = Path()
+                        line.move(to: CGPoint(x: x, y: 0))
+                        line.addLine(to: CGPoint(x: x + size.height, y: size.height))
+                        ctx.stroke(line, with: .color(Color.white.opacity(0.05)), lineWidth: 0.5)
+                        x += spacing
                     }
                 }
-                .padding(18)
-                .background(Color.riddletCard)
-                .clipShape(RoundedRectangle(cornerRadius: 16, style: .continuous))
-                .padding(.horizontal, 12)
-                .padding(.bottom, 12)
-            }
-        }
-        .clipShape(RoundedRectangle(cornerRadius: 24, style: .continuous))
-        .overlay(
-            RoundedRectangle(cornerRadius: 24, style: .continuous)
-                .stroke(Color.riddletDark, lineWidth: 3)
-        )
-        .shadow(color: Color.riddletDark.opacity(0.85), radius: 0, x: 5, y: 7)
+                .clipShape(RoundedRectangle(cornerRadius: 26, style: .continuous))
+            )
+            .overlay(
+                RadialGradient(
+                    stops: [
+                        .init(color: Color(hex: "FFD166").opacity(0.45), location: 0.0),
+                        .init(color: Color(hex: "FF8C42").opacity(0.18), location: 0.45),
+                        .init(color: .clear, location: 1.0),
+                    ],
+                    center: .init(x: 0.5, y: 0.36),
+                    startRadius: 0,
+                    endRadius: 170
+                )
+                .clipShape(RoundedRectangle(cornerRadius: 26, style: .continuous))
+            )
+            .overlay(
+                VStack(spacing: 0) {
+
+                    Spacer()
+
+                    Image("lantern")
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: 68, height: 84)
+
+                    Spacer()
+
+                    // Promise box
+                    VStack(alignment: .leading, spacing: 10) {
+
+                        Text(vm.isToday(index) ? "TODAY'S PROMISE" : riddle.front.theme.uppercased())
+                            .font(.dmSansBold(12))
+                            .foregroundColor(Color(hex: "E8552B"))
+                            .tracking(2.0)
+
+                        Text(riddle.front.promise)
+                            .font(.bungee(24))
+                            .foregroundColor(Color(hex: "1A1410"))
+                            .fixedSize(horizontal: false, vertical: true)
+                            .lineSpacing(1)
+                            .tracking(-1)
+
+                        Text(riddle.front.reference)
+                            .font(.dmSansBold(12))
+                            .foregroundColor(Color(hex: "E8552B").opacity(0.8))
+                            .tracking(1.0)
+                            .padding(.top, 2)
+                    }
+                    .padding(16)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .background(Color(hex: "EAE0CC"))
+                    .clipShape(RoundedRectangle(cornerRadius: 16, style: .continuous))
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 16, style: .continuous)
+                            .stroke(Color(hex: "1A1410"), lineWidth: 2)
+                    )
+                    .padding(20)
+
+                    // TURN OVER hint
+                    HStack(spacing: 10) {
+                        Rectangle()
+                            .frame(width: 26, height: 1)
+                            .foregroundColor(Color.white.opacity(0.4))
+                        Text("TURN OVER")
+                            .font(.dmSansMedium(12))
+                            .foregroundColor(Color.white.opacity(0.65))
+                            .tracking(1.6)
+                            .lineLimit(1)
+                            .fixedSize()
+                        Rectangle()
+                            .frame(width: 26, height: 1)
+                            .foregroundColor(Color.white.opacity(0.4))
+                    }
+                    .padding(.top, 4)
+                    .padding(.bottom, 24)
+                }
+            )
+            .overlay(
+                RoundedRectangle(cornerRadius: 26, style: .continuous)
+                    .stroke(Color(hex: "1A1410"), lineWidth: 3)
+            )
+            .background(
+                RoundedRectangle(cornerRadius: 26, style: .continuous)
+                    .fill(Color(hex: "1A1410"))
+                    .offset(x: 7, y: 9)
+            )
     }
 }

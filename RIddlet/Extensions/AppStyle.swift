@@ -5,7 +5,7 @@ extension Color {
     static let riddletOrange      = Color(hex: "E8531A")
     static let riddletOrangeLight = Color(hex: "F27A40")
     static let riddletDark        = Color(hex: "1C1917")
-    static let riddletCream       = Color(hex: "EDE8DC")
+    static let riddletCream = Color(hex: "F1E9DA")
     static let riddletCard        = Color(hex: "FDFAF4")
 
     init(hex: String) {

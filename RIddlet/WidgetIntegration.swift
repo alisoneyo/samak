@@ -7,6 +7,7 @@
 import Foundation
 import WidgetKit
 import SwiftUI
+import Combine
 
 // MARK: - App Group Data Sync
 
